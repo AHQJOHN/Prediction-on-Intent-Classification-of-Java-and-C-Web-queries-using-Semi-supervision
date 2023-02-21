@@ -1,0 +1,4975 @@
+QueryString,PredictedLabel
+cs1513 c# } expected,FALSE
+cs2001 c# source file could not be found.,FALSE
+cs1001 c# identifier expected,FALSE
+ide0055 c# fix formatting,FALSE
+cs7036 c# there is no argument given that corresponds to the required formal parameter of,FALSE
+cs0006 test c# metadata file could not be found,FALSE
+cs0117 c# does not contain a definition for,FALSE
+cs0161 c# '': not all code paths return a value,FALSE
+c# dictionary,TRUE
+cs0165 c# use of unassigned local variable,FALSE
+c# list,TRUE
+cs0122 c# is inaccessible due to its protection level,FALSE
+c# switch,TRUE
+cs0017 c# program has more than one entry point defined. compile with /main to specify the type that contains the entry point.,FALSE
+cs0162 c# unreachable code detected,TRUE
+ad0001 c# analyzer threw an exception of type 'system.nullreferenceexception' with message 'object reference not set to an instance of an object.'.,FALSE
+c# array,TRUE
+cs0579 c# duplicate attribute,FALSE
+cs8370 c# feature is not available in c# 7.3. please use language version 8.0 or greater.,FALSE
+c# substring,TRUE
+cs1591 c# missing xml comment for publicly visible type or member,FALSE
+ide0018 c# variable declaration can be inlined,FALSE
+cs1503 c# argument 1: cannot convert from to,FALSE
+ide0059 c# unnecessary assignment of a value to,FALSE
+cs0169 c# the field is never used,FALSE
+c# foreach,TRUE
+cs1061 c# 'form1' does not contain a definition for and no accessible extension method accepting a first argument of type 'form1' could be found (are you missing a using directive or an assembly reference?),FALSE
+cs1009 c# unrecognized escape sequence,FALSE
+cs0108 c# hides inherited member. use the new keyword if hiding was intended.,FALSE
+cs1061 c# does not contain a definition for and no extension method accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+c# for loop,TRUE
+cs0121 c# the call is ambiguous between the following methods or properties: and,FALSE
+cs0229 c# ambiguity between and,FALSE
+cs0219 c# the variable is assigned but its value is never used,FALSE
+cs1056 c# unexpected character,FALSE
+c sharp programming,TRUE
+c# regex,TRUE
+cs0642 c# possible mistaken empty statement,FALSE
+c# ??,TRUE
+cs1106 c# extension method must be defined in a non-generic static class,TRUE
+c# datetime,TRUE
+ide0028 c# collection initialization can be simplified,FALSE
+cs0414 c# the field is assigned but its value is never used,FALSE
+cs0246 test c# the type or namespace name could not be found (are you missing a using directive or an assembly reference?),FALSE
+cs1012 c# too many characters in character literal,FALSE
+c# tuple,TRUE
+cs1955 c# non-invocable member cannot be used like a method.,FALSE
+cs1525 c# invalid expression term ')',FALSE
+cs0234 c# the type or namespace name 'linq' does not exist in the namespace 'system' (are you missing an assembly reference?),FALSE
+c# convert string to int,TRUE
+cs0246 c# the type or namespace name 'system' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# using,TRUE
+cs1520 c# method must have a return type,TRUE
+cs0051 c# inconsistent accessibility: parameter type is less accessible than method,FALSE
+c# switch case,TRUE
+cs0101 c# the namespace already contains a definition for,FALSE
+c# datetime format,TRUE
+cs0656 c# missing compiler required member 'microsoft.csharp.runtimebinder.csharpargumentinfo.create',FALSE
+c# delegate,TRUE
+cs1010 c# newline in constant,FALSE
+cs0176 c# member cannot be accessed with an instance reference; qualify it with a type name instead,FALSE
+cs0149 c# method name expected,TRUE
+ide0060 c# remove unused parameter 'args',FALSE
+cs0111 c# type already defines a member called with the same parameter types,FALSE
+json to c#,TRUE
+cs0102 c# the type already contains a definition for,FALSE
+c# interface,TRUE
+c# to vb.net,TRUE
+cs0103 c# the name 'initializecomponent' does not exist in the current context,FALSE
+cs0168 c# the variable 'ex' is declared but never used,FALSE
+c# timer,TRUE
+c# try catch,TRUE
+c# string interpolation,TRUE
+c# switch statement,TRUE
+foreach c#,TRUE
+enc1003 c# changes made in project will not be applied while the application is running,FALSE
+c# struct,TRUE
+c# string to int,TRUE
+cs1024 c# preprocessor directive expected,FALSE
+ide0040 c# accessibility modifiers required,FALSE
+csharp,TRUE
+c# sleep,TRUE
+c# get set,TRUE
+c# string format,TRUE
+c# constructor,TRUE
+cs0118 c# is a namespace but is used like a type,FALSE
+c# null coalescing operator,FALSE
+sa0001 c# xml comment analysis is disabled due to project configuration,FALSE
+ca1824 c# mark assemblies with neutralresourceslanguageattribute,TRUE
+c# string split,TRUE
+c# random number,TRUE
+list c#,TRUE
+c# string,TRUE
+c# random,TRUE
+cs0104 c# is an ambiguous reference between and,FALSE
+cs0029 c# cannot implicitly convert type 'string' to 'int',FALSE
+c# stringbuilder,TRUE
+cs0136 c# a local or parameter named cannot be declared in this scope because that name is used in an enclosing local scope to define a local or parameter,FALSE
+cs0234 c# the type or namespace name does not exist in the namespace 'microsoft' (are you missing an assembly reference?),FALSE
+cs1031 c# type expected,FALSE
+c# 8,TRUE
+ide0067 c# disposable object created by is never disposed,FALSE
+cs1038 c# #endregion directive expected,FALSE
+c# data types,TRUE
+c# messagebox,TRUE
+cs0234 test c# the type or namespace name does not exist in the namespace (are you missing an assembly reference?),FALSE
+c# string.format,TRUE
+c# case statement,TRUE
+c# generics,TRUE
+for loop c#,TRUE
+cs8300 c# merge conflict marker encountered,FALSE
+cs0436 c# the type in conflicts with the imported type in. using the type defined in.,FALSE
+c# inheritance,TRUE
+cs0106 c# the modifier 'private' is not valid for this item,FALSE
+c# string array,TRUE
+c# abstract class,TRUE
+c# lock,TRUE
+cs2001 test c# source file could not be found.,FALSE
+cs0106 c# the modifier 'public' is not valid for this item,FALSE
+cs0103 c# and asp.net the name does not exist in the current context,FALSE
+cs0053 c# inconsistent accessibility: property type is less accessible than property,FALSE
+c# task,TRUE
+c# linq,TRUE
+c# programming,TRUE
+cs0123 c# no overload for matches delegate,FALSE
+cs0103 test c# the name does not exist in the current context,FALSE
+what is c#,TRUE
+cs8641 c# 'else' cannot start a statement.,FALSE
+cs1503 c# argument 2: cannot convert from to,FALSE
+c# await,TRUE
+c# stopwatch,TRUE
+c# arraylist,TRUE
+ide1007 c# the name does not exist in the current context.,FALSE
+c# split string,TRUE
+c# split,TRUE
+cs0542 c# '': member names cannot be the same as their enclosing type,FALSE
+cs1061 c# 'object' does not contain a definition for and no accessible extension method accepting a first argument of type 'object' could be found (are you missing a using directive or an assembly reference?),FALSE
+dependency injection c#,TRUE
+cs0050 c# inconsistent accessibility: return type is less accessible than method,FALSE
+cs0426 c# the type name does not exist in the type,FALSE
+cs8107 c# feature is not available in c# 7.0. please use language version 7.1 or greater.,FALSE
+c# write to file,TRUE
+c# optional parameter,TRUE
+cs1524 c# expected catch or finally,FALSE
+c# extension method,TRUE
+cs1061 c# 'mainwindow' does not contain a definition for and no accessible extension method accepting a first argument of type 'mainwindow' could be found (are you missing a using directive or an assembly reference?),FALSE
+cs0200 c# property or indexer cannot be assigned to -- it is read only,FALSE
+c# string replace,TRUE
+c# queue,TRUE
+ienumerable c#,TRUE
+ide0058 c# expression value is never used,FALSE
+convert string to int c#,TRUE
+an object reference is required nonstatic c#,TRUE
+cs0168 c# the variable 'e' is declared but never used,FALSE
+c# operator,TRUE
+enum c#,TRUE
+c# to vb,TRUE
+c# if statement,TRUE
+c# indexof,TRUE
+cs1503 c# argument {0}: cannot convert from to,FALSE
+cs0227 c# unsafe code may only appear if compiling with /unsafe,FALSE
+cs1525 c# invalid expression term '=',FALSE
+substring c#,TRUE
+switch c#,TRUE
+ide0066 c# use 'switch' expression,FALSE
+c# func,TRUE
+cs0029 c# cannot implicitly convert type 'int' to 'string',FALSE
+c# string to byte array,TRUE
+c# online,TRUE
+cs1501 c# no overload for method takes 1 arguments,FALSE
+c# ternary operator,TRUE
+string.format c#,TRUE
+ide0049 c# name can be simplified.,FALSE
+c# initialize array,TRUE
+cs0619 c# is obsolete:,TRUE
+ide0051 c# private member is unused.,FALSE
+c# ?? operator,TRUE
+c# tryparse,TRUE
+convert c# to vb.net,TRUE
+stringbuilder c#,TRUE
+c# arrays,TRUE
+ide0032 c# use auto property,FALSE
+c# online compiler,TRUE
+c# ? operator,TRUE
+c# ?,TRUE
+c# operators,TRUE
+cs0534 c# does not implement inherited abstract member,FALSE
+vb to c#,TRUE
+cs0656 c# missing compiler required member 'microsoft.csharp.runtimebinder.binder.convert',FALSE
+c# switch expression,TRUE
+c# yield,TRUE
+array c#,TRUE
+switch case c#,TRUE
+cs0029 c# cannot implicitly convert type 'string' to,FALSE
+c# nameof,TRUE
+cs1061 c# 'iservicecollection' does not contain a definition for and no accessible extension method accepting a first argument of type 'iservicecollection' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# do while,TRUE
+c# action,TRUE
+datetime c#,TRUE
+try catch c#,TRUE
+c# decimal,TRUE
+c# httpclient,TRUE
+c# using statement,TRUE
+ide0029 c# null check can be simplified,FALSE
+c# typeof,TRUE
+hashset c#,TRUE
+c# case,TRUE
+cs1061 test c# does not contain a definition for and no accessible extension method accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+c# delegates,TRUE
+c# properties,TRUE
+convert c# to vb,TRUE
+c# extension methods,TRUE
+c# stack,TRUE
+c# lambda expression,TRUE
+c# ienumerable,TRUE
+c# class,TRUE
+cs0029 c# cannot implicitly convert type 'int' to 'bool',FALSE
+c# list sort,TRUE
+cs0029 c# cannot implicitly convert type 'string' to 'bool',FALSE
+ef1001 c# {0} is an internal api that supports the entity framework core infrastructure and not subject to the same compatibility standards as public apis. it may be changed or removed without notice in any release.,FALSE
+c# lambda,TRUE
+string to int c#,TRUE
+regex c#,TRUE
+cs0041 c# unexpected error writing debug information -- ',FALSE
+c# ide,TRUE
+cs1525 c# invalid expression term,FALSE
+c# async,TRUE
+cs7003 c# unexpected use of an unbound generic name,FALSE
+cs0103 c# the name 'configurationmanager' does not exist in the current context,FALSE
+cs0067 c# the event is never used,FALSE
+c# =>,TRUE
+c# while loop,TRUE
+c# events,TRUE
+linq c#,TRUE
+c# event,TRUE
+cs1061 c# 'form1' does not contain a definition for 'form1_load' and no accessible extension method 'form1_load' accepting a first argument of type 'form1' could be found (are you missing a using directive or an assembly reference?),FALSE
+ide0037 c# member name can be simplified,FALSE
+c# string contains,TRUE
+c# 9,TRUE
+c# documentation,TRUE
+c# wait,TRUE
+c# code,TRUE
+c# partial class,TRUE
+c# date format,TRUE
+tuple c#,TRUE
+c# or,TRUE
+cs0266 c# cannot implicitly convert type 'double' to 'int'. an explicit conversion exists (are you missing a cast?),FALSE
+c# json,TRUE
+cs0738 c# does not implement interface member. cannot implement because it does not have the matching return type of.,FALSE
+c# property,TRUE
+switch statement c#,TRUE
+cs8321 c# the local function is declared but never used,FALSE
+c# static,TRUE
+async await c#,TRUE
+cs8107 c# feature is not available in c# 7.0. please use language version {1} or greater.,FALSE
+c# byte array to string,TRUE
+ide0011 c# add braces to 'if' statement.,TRUE
+cs0407 c# has the wrong return type,TRUE
+cs8002 c# referenced assembly does not have a strong name.,FALSE
+cs0400 c# the type or namespace name could not be found in the global namespace (are you missing an assembly reference?),FALSE
+cs0128 c# a local variable or function named is already defined in this scope,FALSE
+cs0246 c# the type or namespace name 'newtonsoft' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# streamreader,TRUE
+c# static class,TRUE
+json to c# class,FALSE
+c# dictionary initializer,TRUE
+online c# compiler,TRUE
+cs8179 c# predefined type is not defined or imported,FALSE
+c# convert string to datetime,TRUE
+cs1503 c# argument 1: cannot convert from 'string' to,FALSE
+cs1501 c# no overload for method takes 2 arguments,FALSE
+c# format string,TRUE
+cs8180 c# { or ; or => expected,FALSE
+c# dynamic,TRUE
+ide0001 c# name can be simplified.,FALSE
+httpclient c#,TRUE
+cs0246 c# and asp.net the type or namespace name could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# streamwriter,TRUE
+cs0305 c# using the generic type requires 1 type arguments,FALSE
+cs8124 c# tuple must contain at least two elements.,FALSE
+c# pass by reference,TRUE
+cs0234 c# the type or namespace name 'mvc' does not exist in the namespace 'system.web' (are you missing an assembly reference?),FALSE
+cs1061 c# 'dbcontextoptionsbuilder' does not contain a definition for 'usesqlserver' and no accessible extension method 'usesqlserver' accepting a first argument of type 'dbcontextoptionsbuilder' could be found (are you missing a using directive or an assembly reference?),FALSE
+ide0039 c# use local function,TRUE
+unity c#,TRUE
+ad0001 c# analyzer threw an exception of type with message.,FALSE
+c# guid,TRUE
+c# for beginners,TRUE
+cs0105 c# the using directive for appeared previously in this namespace,FALSE
+ide0003 c# name can be simplified.,FALSE
+cs1579 c# foreach statement cannot operate on variables of type because does not contain a public instance definition for 'getenumerator',FALSE
+c# regex tester,TRUE
+string interpolation c#,TRUE
+c# absolute value,TRUE
+c# sort list,TRUE
+c# 8.0,TRUE
+c# filestream,TRUE
+cs0234 c# the type or namespace name 'optimization' does not exist in the namespace 'system.web' (are you missing an assembly reference?),FALSE
+c# language,TRUE
+cs0103 c# the name '__o' does not exist in the current context,FALSE
+cs0029 c# cannot implicitly convert type to 'string',FALSE
+c# internal,TRUE
+solid principles c#,TRUE
+c# async await,TRUE
+cs0234 c# the type or namespace name 'models' does not exist in the namespace (are you missing an assembly reference?),FALSE
+c# reflection,TRUE
+c# set,TRUE
+cs0518 c# predefined type 'system.object' is not defined or imported,FALSE
+abstract class c#,TRUE
+ternary operator c#,TRUE
+c# collections,TRUE
+learning c#,TRUE
+cs1061 c# 'dbcontextoptionsbuilder' does not contain a definition for and no accessible extension method accepting a first argument of type 'dbcontextoptionsbuilder' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# read text file,TRUE
+c# yield return,TRUE
+c# var,TRUE
+c# protected,TRUE
+c# trim,TRUE
+cs0234 c# the type or namespace name 'office' does not exist in the namespace 'microsoft' (are you missing an assembly reference?),FALSE
+c# multiline string,TRUE
+c# throw exception,TRUE
+cs1061 c# 'iapplicationbuilder' does not contain a definition for and no accessible extension method accepting a first argument of type 'iapplicationbuilder' could be found (are you missing a using directive or an assembly reference?),FALSE
+cs0052 c# inconsistent accessibility: field type is less accessible than field,FALSE
+cs7027 c# error signing output with public key from file -- file not found.,FALSE
+using c#,TRUE
+c# string.split,TRUE
+c# hello world,TRUE
+c# singleton,TRUE
+c# ref,TRUE
+c# multidimensional array,TRUE
+c# double,TRUE
+tryparse c#,TRUE
+c# fileinfo,TRUE
+cs0443 c# syntax error; value expected,FALSE
+c# class constructor,TRUE
+cs2012 c# cannot open for writing -- ',FALSE
+c# if else,TRUE
+cs1704 c# an assembly with the same simple name has already been imported. try removing one of the references (e.g.) or sign them to enable side-by-side.,FALSE
+cs0518 c# predefined type is not defined or imported,FALSE
+c# ?.,TRUE
+ide0022 c# use block body for methods,TRUE
+c# map,TRUE
+c# destructor,TRUE
+c# format datetime,TRUE
+c# task.run,TRUE
+c# isnumeric,TRUE
+convert vb to c#,TRUE
+c# random number generator,TRUE
+cs0012 c# the type 'object' is defined in an assembly that is not referenced. you must add a reference to assembly.,FALSE
+c# tostring,TRUE
+cs1503 c# argument 1: cannot convert from to 'string',FALSE
+c# params,TRUE
+cs1501 c# no overload for method 'readline' takes 1 arguments,FALSE
+cs0234 c# the type or namespace name 'forms' does not exist in the namespace 'system.windows' (are you missing an assembly reference?),FALSE
+c# array length,TRUE
+lambda expression c#,TRUE
+cs1729 c# does not contain a constructor that takes 1 arguments,FALSE
+c# convert int to string,TRUE
+cs0839 c# argument missing,FALSE
+delegate c#,TRUE
+c# else if,TRUE
+c# sealed class,TRUE
+c# inline if,TRUE
+c# string length,TRUE
+ide0002 c# name can be simplified.,FALSE
+c# cast,TRUE
+c# string compare,TRUE
+c# pdf,TRUE
+c# read file,TRUE
+c# const,TRUE
+ide0034 c# expression can be simplified,FALSE
+c# pattern matching,TRUE
+cs1061 c# does not contain a definition for 'context' and no accessible extension method 'context' accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+cs1011 c# empty character literal,FALSE
+ide0031 c# null check can be simplified,FALSE
+cs0612 c# is obsolete,FALSE
+string split c#,TRUE
+c# tutorials,TRUE
+c# parallel.foreach,TRUE
+c# convert string to byte array,TRUE
+c# enum to string,TRUE
+cs1929 c# does not contain a definition for and the best extension method overload requires a receiver of type,FALSE
+cs0123 c# no overload for matches delegate 'eventhandler',FALSE
+visual c#,TRUE
+c# replace,TRUE
+c# int to string,TRUE
+design patterns c#,TRUE
+timespan c#,TRUE
+c# rename file,TRUE
+c# access modifiers,TRUE
+cs1069 c# the type name 'sqlconnection' could not be found in the namespace. this type has been forwarded to assembly consider adding a reference to that assembly.,FALSE
+arraylist c#,TRUE
+c# for each,TRUE
+c sharp and sequel programming,FALSE
+datetime format c#,TRUE
+get set c#,TRUE
+c# contains,TRUE
+c# regex match,TRUE
+c# or operator,TRUE
+cs1501 c# no overload for method takes {1} arguments,FALSE
+c# fiddle,TRUE
+cs0618 c# 'ihostingenvironment' is obsolete:,FALSE
+c# xor,TRUE
+cs0246 c# the type or namespace name 'form1' could not be found (are you missing a using directive or an assembly reference?),FALSE
+cs8032 c# an instance of analyzer {0} cannot be created from {1}: {2}.,FALSE
+c# nullable,TRUE
+microsoft c#,TRUE
+cs1501 c# no overload for method takes 3 arguments,FALSE
+c# classes,TRUE
+cs1501 c# no overload for method 'tostring' takes 1 arguments,FALSE
+cs0030 c# cannot convert type to,FALSE
+string.split c#,TRUE
+c# newline,TRUE
+streamreader c#,TRUE
+c# 2d array,TRUE
+c# select case,TRUE
+visual studio c#,TRUE
+c# long,TRUE
+c# namespace,TRUE
+cs0103 c# the name 'model' does not exist in the current context,FALSE
+c# send email,TRUE
+c# lists,TRUE
+cs4033 c# the 'await' operator can only be used within an async method. consider marking this method with the 'async' modifier and changing its return type to 'task'.,FALSE
+vb.net to c#,TRUE
+c# linq select,TRUE
+cs0234 c# the type or namespace name 'helpers' does not exist in the namespace 'system.web' (are you missing an assembly reference?),FALSE
+interface c#,TRUE
+cs0101 c# the namespace '<global namespace>' already contains a definition for,FALSE
+ide0044 c#,TRUE
+c# file exists,TRUE
+c# anonymous type,TRUE
+c# thread,TRUE
+c# certification,TRUE
+c# regular expression,TRUE
+c# print,TRUE
+c# declare array,TRUE
+c# assert,TRUE
+c# goto,TRUE
+cs0117 test c# does not contain a definition for,FALSE
+c# function,TRUE
+c# delete file,TRUE
+c# if,TRUE
+cs1963 c# an expression tree may not contain a dynamic operation,FALSE
+c# base64 encode,TRUE
+c# check if file exists,TRUE
+c# dependency injection,TRUE
+c# int,TRUE
+c# sortedlist,TRUE
+c# virtual method,TRUE
+c# break,TRUE
+c# concatenate strings,TRUE
+c# hashmap,TRUE
+c# keyvaluepair,TRUE
+c sharp tutorial,TRUE
+cs1703 c# multiple assemblies with equivalent identity have been imported: and. remove one of the duplicate references.,FALSE
+c# float,TRUE
+indexof c#,TRUE
+ide0016 c# null check can be simplified,FALSE
+cs1061 c# 'string' does not contain a definition for and no accessible extension method accepting a first argument of type 'string' could be found (are you missing a using directive or an assembly reference?),FALSE
+cs0163 c# control cannot fall through from one case label ('') to another,FALSE
+c# dictionary example,TRUE
+cs8070 c# control cannot fall out of switch from final case label (''),FALSE
+c# static constructor,TRUE
+c# logical operators,TRUE
+c# string substring,TRUE
+c# override,TRUE
+automapper c#,TRUE
+c# console.writeline,TRUE
+cs0518 c# predefined type 'system.void' is not defined or imported,FALSE
+c# array initialization,TRUE
+c# char,TRUE
+c# generic constraints,TRUE
+c# math.round,TRUE
+c# write text file,TRUE
+cs1030 c# #warning:,FALSE
+c# datetime format string,TRUE
+string array c#,TRUE
+wmic bios get serialnumber c#,TRUE
+c# list find,TRUE
+cs1612 c# cannot modify the return value of because it is not a variable,FALSE
+c# print to console,TRUE
+c# coding,TRUE
+null coalescing c#,TRUE
+await c#,TRUE
+c# while,TRUE
+c# convert byte array to string,TRUE
+cs1525 c# invalid expression term 'int',FALSE
+vb to c# converter,FALSE
+c# mutex,TRUE
+c# string functions,TRUE
+cs1737 c# optional parameters must appear after all required parameters,FALSE
+c# byte,TRUE
+string format c#,TRUE
+c# struct vs class,FALSE
+c# tostring format,TRUE
+how to learn c#,FALSE
+c# parse json,TRUE
+c# uri,TRUE
+cs1585 c# member modifier 'public' must precede the member type and name,FALSE
+c# string formatting,TRUE
+c# enum string,TRUE
+cs1738 c# named argument specifications must appear after all fixed arguments have been specified. please use language version 7.2 or greater to allow non-trailing named arguments.,FALSE
+c# indexer,TRUE
+c# syntax,TRUE
+c# openfiledialog,TRUE
+ca2008 c# do not create tasks without passing a taskscheduler,FALSE
+c# out parameter,TRUE
+cs0144 c# cannot create an instance of the abstract class or interface,FALSE
+c# tuples,TRUE
+c# add to array,TRUE
+c# file,TRUE
+cs0103 c# the name 'console' does not exist in the current context,FALSE
+c# named tuple,TRUE
+functions in c#,TRUE
+c# reverse string,TRUE
+cs1729 c# does not contain a constructor that takes 0 arguments,FALSE
+c# reference,TRUE
+c# and operator,TRUE
+c# linked list,TRUE
+cs0311 c# the type cannot be used as type parameter in the generic type or method. there is no implicit reference conversion from to.,FALSE
+c# datetime tostring formats,TRUE
+c# initialize list,TRUE
+c# null check,TRUE
+cs0263 c# partial declarations of must not specify different base classes,FALSE
+streamwriter c#,TRUE
+c# sort array,TRUE
+messagebox c#,TRUE
+c# new guid,TRUE
+cs1061 c# 'form1' does not contain a definition for and no extension method accepting a first argument of type 'form1' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# copy file,TRUE
+struct c#,TRUE
+cs8370 c# feature is not available in c# 7.3. please use language version {1} or greater.,FALSE
+c# design patterns,TRUE
+c# generic method,TRUE
+c# +=,TRUE
+cs0012 test c# the type is defined in an assembly that is not referenced. you must add a reference to assembly.,FALSE
+cs1014 c# a get or set accessor expected,TRUE
+cs0659 c# overrides object.equals(object o) but does not override object.gethashcode(),FALSE
+while loop c#,TRUE
+c# threading,TRUE
+c# throw,TRUE
+c# naming conventions,TRUE
+cs8104 c# an error occurred while writing the output file: system.io.ioexception: the cloud operation was unsuccessful.,FALSE
+cs0029 c# cannot implicitly convert type 'string' to 'system.windows.forms.label',FALSE
+cs1029 c# #error:,FALSE
+cs1729 c# does not contain a constructor that takes {1} arguments,FALSE
+cs0246 c# the type or namespace name 'app' could not be found (are you missing a using directive or an assembly reference?),FALSE
+cs8703 c# the modifier 'public' is not valid for this item in c# 7.3. please use language version or greater.,FALSE
+enc0001 c# updating an active statement will prevent the debug session from continuing.,FALSE
+c# enums,TRUE
+c# string enum,TRUE
+c# write to text file,TRUE
+c# is,TRUE
+c# programming language,TRUE
+cs1061 c# 'object' does not contain a definition for 'text' and no accessible extension method 'text' accepting a first argument of type 'object' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# foreach loop,TRUE
+c# remove characters from string,TRUE
+c# string to enum,TRUE
+c# enum to int,TRUE
+cs0518 c# predefined type 'system.string' is not defined or imported,FALSE
+c# url encode,TRUE
+cs0136 c# a local or parameter named 'e' cannot be declared in this scope because that name is used in an enclosing local scope to define a local or parameter,FALSE
+cs0103 c# the name 'viewbag' does not exist in the current context,FALSE
+ide0020 c# use pattern matching,TRUE
+c# get file size,TRUE
+c# process,TRUE
+cs1656 c# cannot assign to because it is a 'method group',FALSE
+c# webclient,TRUE
+nocturne in c sharp minor,FALSE
+c# multithreading,TRUE
+stopwatch c#,TRUE
+ide0025 c# use expression body for properties,TRUE
+c# vector,TRUE
+c# eventhandler,TRUE
+c# new array,TRUE
+cs8012 c# referenced assembly targets a different processor.,FALSE
+c# exception,TRUE
+cs0118 c# is a {1} but is used like a {2},FALSE
+c# is null,TRUE
+c# array to list,TRUE
+c# string builder,TRUE
+cs1061 c# 'mainwindow' does not contain a definition for and no extension method accepting a first argument of type 'mainwindow' could be found (are you missing a using directive or an assembly reference?),FALSE
+cs0428 c# cannot convert method group 'tostring' to non-delegate type 'string'. did you intend to invoke the method?,FALSE
+random c#,TRUE
+convert vb.net to c#,TRUE
+c# urlencode,TRUE
+c# string trim,TRUE
+ide0030 c# use coalesce expression,FALSE
+cs1040 c# preprocessor directives must appear as the first non-whitespace character on a line,FALSE
+c# concurrentdictionary,TRUE
+string c#,TRUE
+list in c#,TRUE
+c# datetime tostring,TRUE
+c# as,TRUE
+c# linq join,TRUE
+c# regex replace,TRUE
+c# factory pattern,TRUE
+c# stream,TRUE
+c# convert,TRUE
+c# replace string,TRUE
+c# predicate,TRUE
+cs0618 test c# is obsolete:,FALSE
+c# basics,TRUE
+concurrentdictionary c#,TRUE
+c# getter setter,TRUE
+hello world c#,TRUE
+cs1503 c# argument 1: cannot convert from 'int' to 'string',FALSE
+repository pattern c#,TRUE
+cs0111 c# type already defines a member called '.ctor' with the same parameter types,FALSE
+c# ilist,TRUE
+c# string to datetime,TRUE
+cs0234 c# the type or namespace name does not exist in the namespace 'system' (are you missing an assembly reference?),FALSE
+c# gettype,TRUE
+ide0069 c# disposable field is never disposed,FALSE
+configureawait c#,TRUE
+c# json deserialize,TRUE
+c# span,TRUE
+c# datetimeoffset,TRUE
+cs0818 c# implicitly-typed variables must be initialized,TRUE
+c# linq distinct,TRUE
+c# decompiler,TRUE
+do while c#,TRUE
+c# enum flags,TRUE
+c# datetime format strings,TRUE
+c# region,TRUE
+ide1006 c# naming rule violation: these words must begin with upper case characters: button1_click,TRUE
+c# convert string to date,TRUE
+json2csharp,TRUE
+c# and,TRUE
+polymorphism c#,TRUE
+in c#,TRUE
+c# ternary,TRUE
+c# lazy,TRUE
+c# blazor,TRUE
+typeof c#,TRUE
+c# list contains,TRUE
+c# string indexof,TRUE
+cs0021 c# cannot apply indexing with [] to an expression of type,FALSE
+c# convert string to enum,TRUE
+ide0042 c# variable declaration can be deconstructed,TRUE
+c# datetime to string,TRUE
+c# convert string to double,TRUE
+c# string concatenation,TRUE
+cs0234 c# the type or namespace name 'entity' does not exist in the namespace 'system.data' (are you missing an assembly reference?),FALSE
+c# dynamic object,TRUE
+cs0656 test c# missing compiler required member 'microsoft.csharp.runtimebinder.csharpargumentinfo.create',FALSE
+c# range,TRUE
+grpc c#,TRUE
+cs1729 c# does not contain a constructor that takes 2 arguments,FALSE
+cs0103 c# the name 'i' does not exist in the current context,FALSE
+c# memorystream,TRUE
+c# new line,TRUE
+?? c#,TRUE
+c# versions,TRUE
+c# repl,TRUE
+c# datediff,TRUE
+c# attributes,TRUE
+c# open file,TRUE
+cs1501 c# no overload for method takes 0 arguments,FALSE
+convert int to string c#,TRUE
+c# firstordefault,TRUE
+cs2017 c# cannot specify /main if building a module or library,FALSE
+c# dataset,TRUE
+c# gethashcode,TRUE
+cs0029 c# cannot implicitly convert type 'string' to 'system.windows.forms.textbox',FALSE
+cs2002 c# source file specified multiple times,FALSE
+ide0044 test c# make field readonly,FALSE
+cs0841 c# cannot use local variable before it is declared,FALSE
+c# format date,TRUE
+c# method,TRUE
+c# array sort,TRUE
+ide0068 c# use recommended dispose pattern to ensure that object created by is disposed on all paths: using statement/declaration or try/finally,FALSE
+cs0428 c# cannot convert method group to non-delegate type 'object'. did you intend to invoke the method?,FALSE
+tostring c#,TRUE
+c# constant,TRUE
+c# to json,TRUE
+cs0118 c# is a variable but is used like a type,FALSE
+ide0043 c# format string contains invalid placeholder,TRUE
+console.writeline c#,TRUE
+timer c#,TRUE
+c# compare strings,TRUE
+inconsistent accessibility c#,TRUE
+c# compareto,TRUE
+c# bitwise operators,TRUE
+array in c#,TRUE
+c# priority queue,TRUE
+cs1028 c# unexpected preprocessor directive,FALSE
+arrays in c#,TRUE
+c sharp download,TRUE
+c# online editor,TRUE
+c# version,TRUE
+c# compiler online,TRUE
+cs1586 c# array creation must have array size or array initializer,FALSE
+random number c#,TRUE
+c# date,TRUE
+c# .net,TRUE
+static c#,TRUE
+c# idisposable,TRUE
+c# object,TRUE
+c# configurationmanager,TRUE
+c# operator overloading,TRUE
+convert string to byte array c#,TRUE
+cs0433 test c# the type exists in both and,FALSE
+what is c# used for,FALSE
+c# 8 features,TRUE
+c# linkedlist,TRUE
+c# dispose,TRUE
+c# loop,TRUE
+c# list remove,TRUE
+c# backgroundworker,TRUE
+cs0029 c# cannot implicitly convert type 'string' to 'double',FALSE
+cs0234 c# the type or namespace name 'webpages' does not exist in the namespace 'system.web' (are you missing an assembly reference?),FALSE
+c# create directory,TRUE
+c# &&,TRUE
+c# path,TRUE
+cs1662 c# cannot convert lambda expression to intended delegate type because some of the return types in the block are not implicitly convertible to the delegate return type,FALSE
+constructor c#,TRUE
+c# type,TRUE
+task.run c#,TRUE
+c# casting,TRUE
+c# invoke,TRUE
+c# not equal,TRUE
+c# functions,TRUE
+use of unassigned local variable c#,TRUE
+c# string contains case insensitive,TRUE
+if else c#,TRUE
+c# using block,TRUE
+cs1503 c# argument 1: cannot convert from 'string' to 'int',FALSE
+c# deserialize json,TRUE
+c# dynamic type,TRUE
+c# try catch finally,FALSE
+c# string.replace,TRUE
+c# delay,TRUE
+c# methods,TRUE
+cs0029 c# cannot implicitly convert type 'void' to 'string',FALSE
+ide0071 c# interpolation can be simplified,FALSE
+yield return c#,TRUE
+c# convert to int,TRUE
+cs0234 c# the type or namespace name 'http' does not exist in the namespace 'system.web' (are you missing an assembly reference?),FALSE
+c# decimal vs double,FALSE
+parallel.foreach c#,TRUE
+c# datagridview,TRUE
+c# playground,TRUE
+visual studio code c#,TRUE
+int to string c#,TRUE
+cs1525 c# invalid expression term 'string',FALSE
+c# attribute,TRUE
+deserialize json c#,TRUE
+cs0029 c# cannot implicitly convert type 'int' to,FALSE
+c# list to string,TRUE
+c# array to string,TRUE
+convert string to datetime c#,TRUE
+c# exceptions,TRUE
+c# collection,TRUE
+c# waitforseconds,TRUE
+c# data structures,TRUE
+cs0117 c# 'resources' does not contain a definition for,FALSE
+enc0021 c# adding 'namespace' will prevent the debug session from continuing.,FALSE
+dapper c#,TRUE
+c# random int,TRUE
+c# clone object,TRUE
+c# iif,TRUE
+c# where,TRUE
+cs0305 c# using the generic type 'list<t>' requires 1 type arguments,FALSE
+c# anonymous function,TRUE
+c# sqlconnection,TRUE
+c# split string into array,TRUE
+c# 8 switch expression,FALSE
+c# unity,TRUE
+fibonnaci sequence c#,TRUE
+c# time,TRUE
+singleton c#,TRUE
+partial class c#,TRUE
+task c#,TRUE
+cs1503 c# argument 3: cannot convert from to,FALSE
+c# writeline,TRUE
+json deserialize c#,TRUE
+cs0006 c# and asp.net mvc 4.0 metadata file could not be found,FALSE
+cs1525 c# invalid expression term 'else',FALSE
+c# directory.getfiles,TRUE
+cs1705 test c# assembly with identity uses which has a higher version than referenced assembly with identity,FALSE
+cs0029 c# cannot implicitly convert type to 'bool',FALSE
+cs0708 c# '': cannot declare instance members in a static class,FALSE
+random number generator c#,TRUE
+c# to vb.net converter,FALSE
+ide0017 test c# object initialization can be simplified,FALSE
+c# orderby,TRUE
+c# int array,TRUE
+c# read file line by line,TRUE
+c# sqlite,TRUE
+c# string literal,TRUE
+c# todictionary,TRUE
+c# editor,TRUE
+nameof c#,TRUE
+c# if debug,TRUE
+2d array c#,TRUE
+cs3001 c# argument type is not cls-compliant,FALSE
+httpresponsemessage c#,TRUE
+c# dllimport,TRUE
+cs2015 c# is a binary file instead of a text file,FALSE
+c# anonymous object,TRUE
+c# directoryinfo,TRUE
+c# thread.sleep,TRUE
+c# return tuple,TRUE
+ca2007 c# consider calling configureawait on the awaited task,TRUE
+string to byte array c#,TRUE
+c# $ string,TRUE
+httpwebrequest c#,TRUE
+ide1003 c# analyzer assembly depends on but it was not found. analyzers may not run correctly unless the missing assembly is added as an analyzer reference as well.,FALSE
+c# char array to string,TRUE
+c# internal class,TRUE
+generics c#,TRUE
+func c#,TRUE
+c# cultureinfo,TRUE
+c# math,TRUE
+c# types,TRUE
+c# write string to file,TRUE
+c# byte array,TRUE
+throw exception c#,TRUE
+c# get filename from path,TRUE
+c# global variable,TRUE
+c# message box,TRUE
+c# string methods,TRUE
+c# jagged array,TRUE
+lambda c#,TRUE
+c# to vb converter,FALSE
+cs0266 c# cannot implicitly convert type 'object' to. an explicit conversion exists (are you missing a cast?),FALSE
+string replace c#,TRUE
+c# api,TRUE
+cs1762 c# a reference was created to embedded interop assembly because of an indirect reference to that assembly created by assembly. consider changing the property on either assembly.,FALSE
+for each c#,TRUE
+c# configureawait,TRUE
+cs0234 c# the type or namespace name 'common' does not exist in the namespace (are you missing an assembly reference?),FALSE
+c# semaphore,TRUE
+c# read csv,TRUE
+c# convert double to int,TRUE
+c# read csv file,TRUE
+c# internal keyword,TRUE
+c# escape characters,TRUE
+c# nullable reference types,FALSE
+c# event handler,TRUE
+c# singleton pattern,TRUE
+c# cheat sheet,TRUE
+c# datetime tostring format,TRUE
+cs0246 c# the type or namespace name 'dbcontext' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# keywords,TRUE
+cs1503 c# argument 1: cannot convert from 'string' to 'char',FALSE
+cs1508 c# resource identifier has already been used in this assembly,FALSE
+c# boolean,TRUE
+for loop in c#,FALSE
+c# bitmap,TRUE
+c# dictionary trygetvalue,TRUE
+c# multiple inheritance,TRUE
+c# xmldocument,TRUE
+c# local function,TRUE
+c# readonly property,TRUE
+c# linq foreach,TRUE
+c# check for null,FALSE
+sealed class c#,TRUE
+cs7038 c# failed to emit module.,FALSE
+cs1503 c# argument 1: cannot convert from 'int' to,FALSE
+c# json parser,TRUE
+c# default,TRUE
+cs0234 c# the type or namespace name 'visualstudio' does not exist in the namespace 'microsoft' (are you missing an assembly reference?),FALSE
+c# double to int,TRUE
+c# parse string,TRUE
+c# string to double,TRUE
+c# current date,TRUE
+c# foreach index,TRUE
+if statement c#,TRUE
+cs0029 c# cannot implicitly convert type 'void' to,FALSE
+cs8112 c# is a local function and must therefore always have a body.,TRUE
+split string c#,TRUE
+hashmap c#,TRUE
+c# list length,TRUE
+c# using static,TRUE
+dictionary in c#,TRUE
+c# switch on type,TRUE
+c# int to enum,TRUE
+cs8137 c# cannot define a class or member that utilizes tuples because the compiler required type cannot be found. are you missing a reference?,FALSE
+c# selectmany,TRUE
+else if c#,TRUE
+c# this,TRUE
+ide0057 c# substring can be simplified,FALSE
+online c#,TRUE
+async c#,TRUE
+static class c#,TRUE
+cs0234 c# the type or namespace name 'data' does not exist in the namespace (are you missing an assembly reference?),FALSE
+c# convert enum to int,TRUE
+cs1501 c# no overload for method takes 4 arguments,FALSE
+c# comments,TRUE
+c# linq where,TRUE
+c# read json file,FALSE
+datetimeoffset c#,TRUE
+c# isnull,TRUE
+c# select,TRUE
+c# exit foreach,TRUE
+c# list foreach,TRUE
+c# switch pattern matching,FALSE
+cs1902 c# invalid option for /debug; must be full or pdbonly,FALSE
+c# xml,TRUE
+factory pattern c#,TRUE
+or in c#,TRUE
+c# is operator,TRUE
+delegates c#,TRUE
+c# script,TRUE
+cs0079 c# the event can only appear on the left hand side of += or -=,FALSE
+c# math.pow,TRUE
+c# gui,TRUE
+cs1061 c# 'httpcontent' does not contain a definition for 'readasasync' and no accessible extension method 'readasasync' accepting a first argument of type 'httpcontent' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# double question mark,TRUE
+c# create array,TRUE
+c# convert int to enum,TRUE
+extension method c#,TRUE
+c# return,TRUE
+c# 8 release date,FALSE
+c# 8 switch,TRUE
+queue c#,TRUE
+keyvaluepair c#,TRUE
+c# icomparable,TRUE
+c# mod operator,TRUE
+c# cast string to int,TRUE
+ide0035 c# unreachable code detected,TRUE
+c# pause,TRUE
+cs7036 c# there is no argument given that corresponds to the required formal parameter 'name' of,FALSE
+? in c#,TRUE
+c# process.start,TRUE
+c# list add,TRUE
+cs0234 c# and asp.net the type or namespace name does not exist in the namespace (are you missing an assembly reference?),FALSE
+cs0246 c# the type or namespace name 'nunit' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# enumeration,TRUE
+c# trim string,TRUE
+c# concurrent list,TRUE
+c# array contains,TRUE
+c# exit for loop,TRUE
+byte array to string c#,TRUE
+c# dictionary add,TRUE
+c# typedef,TRUE
+c# tuning,TRUE
+w3schools c#,TRUE
+c# short,TRUE
+c# datetime.now,TRUE
+c# readline,TRUE
+cs0305 c# using the generic type requires 2 type arguments,FALSE
+selenium c#,TRUE
+c# round up,TRUE
+c# unit testing,TRUE
+c# read xml file,TRUE
+cs0737 c# does not implement interface member. cannot implement an interface member because it is not public.,FALSE
+cs0117 c# 'resource.id' does not contain a definition for,FALSE
+c# thread sleep,TRUE
+c# combobox,TRUE
+c# array declaration,TRUE
+c# dynamic array,TRUE
+c# timestamp,TRUE
+c# call base constructor,TRUE
+c# file extension,TRUE
+c# ?. operator,TRUE
+firstordefault c#,TRUE
+cs0103 c# the name 'context' does not exist in the current context,FALSE
+c# color,TRUE
+convert byte array to string c#,TRUE
+c# try,TRUE
+c# listbox,TRUE
+ad0001 xaml and c# analyzer threw an exception of type 'system.nullreferenceexception' with message 'object reference not set to an instance of an object.'.,FALSE
+c# string comparison,TRUE
+cs1668 c# invalid search path specified in --,TRUE
+arrays c#,TRUE
+c# default parameter,TRUE
+c# listview,TRUE
+c# assembly,TRUE
+c# groupby,TRUE
+cs0246 c# and asp.net mvc 4.0 the type or namespace name could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# @,TRUE
+cs0246 c# the type or namespace name 'log4net' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# textwriter,TRUE
+c# constants,TRUE
+linq join c#,TRUE
+c# securestring,TRUE
+c# new string array,TRUE
+c# sort,TRUE
+cs0266 c# cannot implicitly convert type 'double' to 'float'. an explicit conversion exists (are you missing a cast?),FALSE
+moq c#,TRUE
+namespace c#,TRUE
+c# operator precedence,TRUE
+icomparable c#,TRUE
+c# timespan format,TRUE
+int.tryparse c#,TRUE
+c# array initializer,TRUE
+c# async main,TRUE
+c# using alias,TRUE
+c# sorted list,TRUE
+c# ??=,TRUE
+c# garbage collection,TRUE
+cs0311 c# the type cannot be used as type parameter 't' in the generic type or method. there is no implicit reference conversion from to.,FALSE
+cs0234 c# the type or namespace name 'global_asax' does not exist in the namespace 'asp' (are you missing an assembly reference?),FALSE
+the breakpoint will not currently be hit c#,FALSE
+c# enum tostring,TRUE
+how to code in c#,TRUE
+c# async task,TRUE
+c# polymorphism,TRUE
+c# delegate example,TRUE
+c# write to console,TRUE
+cs0311 c# the type cannot be used as type parameter 'tcontext' in the generic type or method. there is no implicit reference conversion from to.,FALSE
+c# union,TRUE
+c# % operator,TRUE
+c# datarow,TRUE
+c# webrequest,TRUE
+c# visual studio,TRUE
+math.round c#,TRUE
+c# linq groupby,TRUE
+c# open file dialog,TRUE
+inheritance c#,TRUE
+cs0037 c# cannot convert null to 'int' because it is a non-nullable value type,FALSE
+c# logging,TRUE
+c# %,TRUE
+c# linq orderby,TRUE
+c# pointers,TRUE
+c# parse xml,TRUE
+c# string to date,TRUE
+c# using declaration,TRUE
+ide0065 c# using directives must be placed outside of a namespace declaration,FALSE
+not all code paths return a value c#,FALSE
+c# generic,TRUE
+c# expression,TRUE
+c# wpf,TRUE
+c# download file,TRUE
+c# implicit operator,TRUE
+c# list to array,TRUE
+c# ping,TRUE
+c# override equals,TRUE
+c# get environment variable,TRUE
+ilist c#,TRUE
+cs0103 c# the name 'file' does not exist in the current context,FALSE
+cs0579 c# duplicate 'global::system.runtime.versioning.targetframeworkattribute' attribute,FALSE
+regex tester c#,TRUE
+cs1061 c# 'settings' does not contain a definition for and no accessible extension method accepting a first argument of type 'settings' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# remove last character from string,TRUE
+c# string to stream,TRUE
+c# create file,TRUE
+cs7035 c# the specified version string does not conform to the recommended format - major.minor.build.revision,FALSE
+decimal c#,TRUE
+c# class example,TRUE
+c# automapper,TRUE
+c# heap,TRUE
+json c#,TRUE
+cs1587 c# xml comment is not placed on a valid language element,FALSE
+c# strings,TRUE
+c# get current date,TRUE
+c# time format,TRUE
+write to file c#,TRUE
+cs1513 c# and asp.net } expected,FALSE
+ide0027 c# use expression body for accessors,FALSE
+cs0103 c# the name 'messagebox' does not exist in the current context,FALSE
+openfiledialog c#,TRUE
+ide1002 c# analyzer assemblies and both have identity but different contents. only one will be loaded and analyzers using these assemblies may not run correctly.,FALSE
+inotifypropertychanged c#,TRUE
+c# bool,TRUE
+c# string vs string,TRUE
+c# enumerable,TRUE
+ide1006 c# naming rule violation: missing prefix: '_',FALSE
+cs0664 c# literal of type double cannot be implicitly converted to type 'float'; use an 'f' suffix to create a literal of this type,FALSE
+cs0029 c# cannot implicitly convert type 'double' to 'string',FALSE
+c# projects,TRUE
+c# discard,TRUE
+vb.net to c# converter,FALSE
+c# case switch,TRUE
+c# xmlreader,TRUE
+case statement c#,TRUE
+cs0177 c# the out parameter must be assigned to before control leaves the current method,FALSE
+c# matrix,TRUE
+c# httpwebrequest,TRUE
+c# read excel file,TRUE
+cs0122 test c# is inaccessible due to its protection level,FALSE
+c# windows service,TRUE
+c# create text file,TRUE
+c# generate random number,TRUE
+c# string interpolation formatting,TRUE
+c# add to list,TRUE
+c# datetime parse,TRUE
+cs1660 c# cannot convert lambda expression to type 'string' because it is not a delegate type,FALSE
+idisposable c#,TRUE
+c# decimal precision,TRUE
+linked list c#,TRUE
+cs8070 c# control cannot fall out of switch from final case label ('default:'),FALSE
+c# static method,TRUE
+c# array of strings,TRUE
+unit testing c#,TRUE
+cs0060 c# inconsistent accessibility: base class is less accessible than class,FALSE
+c# ^ operator,TRUE
+c# datetime formats,TRUE
+c# serialization,TRUE
+cs0234 c# the type or namespace name 'ui' does not exist in the namespace (are you missing an assembly reference?),FALSE
+c# comment,TRUE
+c# string to char array,TRUE
+string to datetime c#,TRUE
+unt0002 c# comparing tags using == is inefficient.,FALSE
+c# as keyword,TRUE
+c# write file,TRUE
+substring in c#,TRUE
+enum in c#,TRUE
+c# ? :,TRUE
+cs1503 c# argument 2: cannot convert from 'string' to,FALSE
+c# jobject,TRUE
+datagridview c#,TRUE
+cs1941 c# the type of one of the expressions in the join clause is incorrect. type inference failed in the call to 'join'.,FALSE
+c# ordered list,TRUE
+c# question mark,TRUE
+c# get computer name,TRUE
+c# 7,TRUE
+c# if or,TRUE
+guid c#,TRUE
+using statement c#,TRUE
+c# with,TRUE
+c# constructor chaining,TRUE
+c# object to json,FALSE
+cs0214 c# pointers and fixed size buffers may only be used in an unsafe context,FALSE
+c# ||,TRUE
+cs8602 c# dereference of a possibly null reference.,FALSE
+c# question mark operator,TRUE
+c# copy to clipboard,TRUE
+c# join,TRUE
+convert json to c# class,FALSE
+c# out keyword,TRUE
+c# loops,TRUE
+jobject c#,TRUE
+c# exception handling,TRUE
+c# generic class,TRUE
+c# substring example,TRUE
+c# random string,TRUE
+c# parse,TRUE
+c# graphics,TRUE
+c# pair,TRUE
+cs1503 c# argument 1: cannot convert from 'method group' to 'string',FALSE
+what is c sharp,FALSE
+c# entity framework,TRUE
+cs8630 c# invalid value: 'enable' for c# 7.3. please use language version or greater.,FALSE
+c# string reverse,TRUE
+c# int?,TRUE
+c# int.tryparse,TRUE
+struct vs class c#,FALSE
+cannot implicitly convert type c#,FALSE
+c# inputbox,TRUE
+cs0311 c# the type cannot be used as type parameter 'timplementation' in the generic type or method. there is no implicit reference conversion from to.,FALSE
+download c#,TRUE
+c# boxing,TRUE
+cs0234 c# the type or namespace name 'core' does not exist in the namespace (are you missing an assembly reference?),FALSE
+try catch finally c#,FALSE
+c# hash,TRUE
+observablecollection c#,TRUE
+c# move file,TRUE
+c# rest api,TRUE
+c# zip,TRUE
+c# exit program,TRUE
+string.replace c#,TRUE
+c# elseif,TRUE
+iequalitycomparer c#,TRUE
+c# moq,TRUE
+learn c sharp,TRUE
+cs0136 c# a local or parameter named 'i' cannot be declared in this scope because that name is used in an enclosing local scope to define a local or parameter,FALSE
+cs0428 c# cannot convert method group to non-delegate type 'string'. did you intend to invoke the method?,FALSE
+cs4008 c# cannot await 'void',FALSE
+c# => meaning,TRUE
+c# string[],TRUE
+cs0206 c# a property or indexer may not be passed as an out or ref parameter,FALSE
+do while loop c#,FALSE
+c# linq group by,FALSE
+cs0107 c# more than one protection modifier,FALSE
+c# convert string to float,TRUE
+c# examples,TRUE
+cs0028 c# has the wrong signature to be an entry point,TRUE
+csvhelper c#,TRUE
+switch in c#,TRUE
+c# aggregate,TRUE
+char array to string c#,TRUE
+c# interface properties,TRUE
+ca1506 c# is coupled with different types from different namespaces. rewrite or refactor the code to decrease its class coupling below.,TRUE
+c# unit test,TRUE
+c# array methods,TRUE
+c# to vb net converter,FALSE
+c# enumerator,TRUE
+reflection c#,TRUE
+c# sqldatareader,TRUE
+regex replace c#,TRUE
+c# sorted dictionary,TRUE
+cs1043 c# { or ; expected,FALSE
+c# if and,TRUE
+c# 9.0,TRUE
+c# trimend,TRUE
+fileinfo c#,TRUE
+c# extension property,TRUE
+c# array.sort,TRUE
+sqlite c#,TRUE
+array.sort c#,TRUE
+c# getters and setters,TRUE
+c# capitalize first letter,TRUE
+c# interactive,TRUE
+c# command line parser,TRUE
+c# parallel foreach,TRUE
+c# excel,TRUE
+c# date formats,TRUE
+c# get current time,TRUE
+c# deserialize xml,TRUE
+missing compiler required member 'microsoft.csharp.runtimebinder.csharpargumentinfo.create',FALSE
+c# mvc,TRUE
+c# textreader,TRUE
+c# for dummies,TRUE
+c# await async,TRUE
+c# crlf,TRUE
+declare array c#,TRUE
+c# datetime from string,TRUE
+c# get,TRUE
+c# json serializer,TRUE
+c# sorteddictionary,TRUE
+string compare c#,TRUE
+cs0266 c# cannot implicitly convert type 'int?' to 'int'. an explicit conversion exists (are you missing a cast?),FALSE
+opencv c#,TRUE
+combobox c#,TRUE
+c# async constructor,TRUE
+htmlagilitypack c#,TRUE
+cs0230 c# type and identifier are both required in a foreach statement,FALSE
+cs0234 c# the type or namespace name 'practices' does not exist in the namespace 'microsoft' (are you missing an assembly reference?),FALSE
+cs1977 c# cannot use a lambda expression as an argument to a dynamically dispatched operation without first casting it to a delegate or expression tree type.,FALSE
+cs0234 c# the type or namespace name 'shared' does not exist in the namespace (are you missing an assembly reference?),FALSE
+c# return multiple values,TRUE
+dllimport c#,TRUE
+c# remove spaces from string,TRUE
+c# property get set,TRUE
+c# convert array to list,TRUE
+c# char to string,TRUE
+c# do while loop,FALSE
+c# icomparer,TRUE
+c# custom exception,TRUE
+double c#,TRUE
+c# structure,TRUE
+c# socket,TRUE
+cs0433 c# and asp.net the type exists in both and,FALSE
+stack c#,TRUE
+cs0111 c# type 'form1' already defines a member called '.ctor' with the same parameter types,FALSE
+c# implicit conversion,TRUE
+c# integer division,TRUE
+c# xml parser,TRUE
+c# variable types,TRUE
+string contains c#,TRUE
+c# date format strings,TRUE
+iformatprovider c#,TRUE
+c# encrypt string,TRUE
+jsonconvert.deserializeobject c#,TRUE
+cs0029 c# cannot implicitly convert type 'bool' to,FALSE
+c# serializable,TRUE
+cs0234 c# the type or namespace name 'resources' does not exist in the namespace (are you missing an assembly reference?),FALSE
+c# exception types,TRUE
+c# image,TRUE
+c# point,TRUE
+c# square root,TRUE
+c# get assembly version,TRUE
+initialize array c#,TRUE
+c# sizeof,TRUE
+cs0234 c# the type or namespace name 'azure' does not exist in the namespace 'microsoft' (are you missing an assembly reference?),FALSE
+cs1061 c# 'mainform' does not contain a definition for and no accessible extension method accepting a first argument of type 'mainform' could be found (are you missing a using directive or an assembly reference?),FALSE
+cs0016 c# could not write to output file -- ',FALSE
+c# dispose pattern,TRUE
+console.readline c#,TRUE
+c# abstract property,TRUE
+c# append to file,TRUE
+c# remove item from list,TRUE
+c# loop through dictionary,TRUE
+split c#,TRUE
+c# operator overload,TRUE
+c# initialize string array,TRUE
+fluent validation c#,TRUE
+c# class inheritance,TRUE
+c# exponent,TRUE
+cs0138 c# a 'using namespace' directive can only be applied to namespaces; is a type not a namespace. consider a 'using static' directive instead,FALSE
+c# threadpool,TRUE
+c# datetime compare,TRUE
+c# test for null,FALSE
+c# main,TRUE
+cs0029 c# cannot implicitly convert type 'void' to 'object',FALSE
+c# idictionary,TRUE
+cs4032 c# the 'await' operator can only be used within an async method. consider marking this method with the 'async' modifier and changing its return type to.,FALSE
+c# equals,TRUE
+cs0104 c# 'vector3' is an ambiguous reference between and 'unityengine.vector3',FALSE
+c# convert string to bool,TRUE
+c# int.parse,TRUE
+c# pointer,TRUE
+cs8625 c# cannot convert null literal to non-nullable reference type.,FALSE
+microsoft c# certification,TRUE
+httpcontent c#,TRUE
+c# microsoft,TRUE
+c# tasks,TRUE
+c# variables,TRUE
+c# new datetime,TRUE
+c# practice,TRUE
+ihttpclientfactory c#,TRUE
+ide0056 c# indexing can be simplified,FALSE
+c# instr,TRUE
+c# template,TRUE
+c# new,TRUE
+webclient c#,TRUE
+sortedlist c#,TRUE
+c# is not null,FALSE
+c# carriage return line feed,TRUE
+c# write text to file,TRUE
+c# inline function,TRUE
+c# binary search,TRUE
+c# callback,TRUE
+c# copy constructor,TRUE
+c# list count,TRUE
+cs1061 c# does not contain a definition for 'orderby' and no accessible extension method 'orderby' accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+c# property default value,FALSE
+operator c#,TRUE
+c# padleft,TRUE
+c# switch type,TRUE
+c# list of strings,TRUE
+c# list vs array,TRUE
+sqlconnection c#,TRUE
+c# enum strings,TRUE
+c# get type of object,TRUE
+c# convert string to guid,TRUE
+c# toshortdatestring,TRUE
+c# iterate enum,TRUE
+c# array size,TRUE
+c# string to integer,TRUE
+cs1061 c# 'form1' does not contain a definition for 'textbox1_textchanged' and no accessible extension method 'textbox1_textchanged' accepting a first argument of type 'form1' could be found (are you missing a using directive or an assembly reference?),FALSE
+cs0103 c# the name 'html' does not exist in the current context,FALSE
+index of c#,TRUE
+c# xmlserializer,TRUE
+cs8107 c# feature is not available in c# 7.0. please use language version 7.3 or greater.,FALSE
+javascriptserializer c#,TRUE
+c# game engine,TRUE
+jsonconvert c#,TRUE
+c# create directory if not exist,FALSE
+mono c#,TRUE
+cs0266 c# cannot implicitly convert type 'decimal' to 'int'. an explicit conversion exists (are you missing a cast?),FALSE
+c# array of objects,TRUE
+c# copy object,TRUE
+format string c#,TRUE
+c# @ string,TRUE
+c# foreach enum,TRUE
+c# char to int,TRUE
+c# interpolated string,TRUE
+c# format number,TRUE
+c# abstract method,TRUE
+c# memorycache,TRUE
+absolute value c#,TRUE
+=> c#,TRUE
+c# datetime.parse,TRUE
+cs0571 c# '': cannot explicitly call operator or accessor,FALSE
+c# virtual property,TRUE
+c# array copy,TRUE
+read file c#,TRUE
+c# xdocument,TRUE
+c# string equals,TRUE
+c# string @,TRUE
+c# left,TRUE
+c# interlocked,TRUE
+convert string to double c#,TRUE
+c# scripting,TRUE
+decompiler c#,TRUE
+cs8103 c# combined length of user strings used by the program exceeds allowed limit. try to decrease use of string literals.,FALSE
+cs1729 c# does not contain a constructor that takes 3 arguments,FALSE
+c# getfiles,TRUE
+c# interface examples,TRUE
+c# learning,TRUE
+cs0266 c# cannot implicitly convert type 'float' to 'int'. an explicit conversion exists (are you missing a cast?),FALSE
+c# program,TRUE
+c# new list,TRUE
+c# base class,TRUE
+c# string list,TRUE
+c# override method,TRUE
+c# clone,TRUE
+c# #define,TRUE
+c# web api,TRUE
+c# timer example,TRUE
+c# $,TRUE
+xml to c#,TRUE
+c# null operator,TRUE
+c# double vs decimal,FALSE
+array length c#,TRUE
+c# create folder,TRUE
+c# split string delimiter,TRUE
+c# test,TRUE
+format datetime c#,TRUE
+c# guide,TRUE
+xmlreader c#,TRUE
+c# regular expressions,TRUE
+c# course,TRUE
+f# vs c#,TRUE
+delegates in c#,TRUE
+c# constructors,TRUE
+c# enum class,TRUE
+c# lambda function,TRUE
+c# escape quotes,TRUE
+sort list c#,TRUE
+directory.getfiles c#,TRUE
+c# iterate dictionary,TRUE
+c# bitarray,TRUE
+c# format currency,TRUE
+c# dapper,TRUE
+c# enum string value,TRUE
+c# read xml,TRUE
+c# uint,TRUE
+c# threads,TRUE
+c# expandoobject,TRUE
+c# app.config,TRUE
+encapsulation c#,TRUE
+c# nullable int,TRUE
+c# optional parameters,TRUE
+ide0022 c# use expression body for methods,TRUE
+c# regex cheat sheet,TRUE
+c# write stream to file,TRUE
+c# sql,TRUE
+c# get file name from path,TRUE
+c# xml serialization,TRUE
+metadata file could not be found c#,FALSE
+c# key value pair,TRUE
+cs0139 c# no enclosing loop out of which to break or continue,FALSE
+c# distinct,TRUE
+c# ++,TRUE
+.net c#,TRUE
+head first c#,TRUE
+c# serialport,TRUE
+drop c# tuning,TRUE
+c# savefiledialog,TRUE
+c# implement interface,TRUE
+c# an object reference is required non-static,TRUE
+c# copy array,TRUE
+array to list c#,TRUE
+c# code examples,TRUE
+string builder c#,TRUE
+c# division,TRUE
+c# deep copy,TRUE
+c# escape double quote,TRUE
+c# date format string,TRUE
+linkedlist c#,TRUE
+cs1501 c# no overload for method takes 5 arguments,FALSE
+c# index of,TRUE
+c# property setter,TRUE
+? operator c#,TRUE
+csharp tutorial,TRUE
+list sort c#,TRUE
+c# number format,TRUE
+c# class to json,FALSE
+c# wiki,TRUE
+c# catch multiple exceptions,FALSE
+sqldatareader c#,TRUE
+abstract class vs interface c#,TRUE
+c# convert string to decimal,TRUE
+c# decimal type,TRUE
+xelement c#,TRUE
+textfieldparser c#,TRUE
+c# read json,TRUE
+cs0428 c# cannot convert method group to non-delegate type 'bool'. did you intend to invoke the method?,FALSE
+c# coding standards,TRUE
+c# 2 dimensional array,TRUE
+jagged array c#,TRUE
+c# parse int,TRUE
+server.mappath c#,TRUE
+c# http request,TRUE
+memorystream c#,TRUE
+c# do until,TRUE
+input string was not in a correct format c#,FALSE
+c# console.readline,TRUE
+action c#,TRUE
+c# decimal literal,TRUE
+select case c#,TRUE
+c# sftp,TRUE
+cs8025 c# feature is not available in c# 4. please use language version 7.0 or greater.,FALSE
+ide0038 c# use pattern matching,TRUE
+c# interface constructor,TRUE
+c# array of arrays,TRUE
+xmldocument c#,TRUE
+how to code c#,TRUE
+c# serial port,TRUE
+c# rethrow exception,TRUE
+godot c#,TRUE
+online c# editor,TRUE
+c# list.sort,TRUE
+c# httpcontent,TRUE
+c# generic list,TRUE
+cs7034 c# the specified version string does not conform to the required format - major[.minor[.build[.revision]]],FALSE
+singleton pattern c#,TRUE
+cs0019 c# operator '*' cannot be applied to operands of type 'decimal' and 'double',FALSE
+cs8059 c# feature is not available in c# 6. please use language version 7.0 or greater.,FALSE
+cs8701 c# target runtime doesn',FALSE
+string to double c#,TRUE
+interface in c#,TRUE
+c# two dimensional arrays,TRUE
+c# sendkeys,TRUE
+int.parse c#,TRUE
+c# list addrange,TRUE
+bl0001 c# component parameter should have a public setter.,FALSE
+c# deconstructor,TRUE
+c# list initialization,TRUE
+cs0234 c# the type or namespace name 'ui' does not exist in the namespace 'system.web' (are you missing an assembly reference?),FALSE
+lists in c#,TRUE
+extension methods c#,TRUE
+xml serialization c#,TRUE
+c# length of string,TRUE
+ienumerator c#,TRUE
+c# ^,TRUE
+c# progress bar,TRUE
+c# try parse,TRUE
+parse json c#,TRUE
+c# custom attribute,TRUE
+expandoobject c#,TRUE
+c# nullable string,TRUE
+semaphoreslim c#,TRUE
+c# and or,TRUE
+c# json serialization,TRUE
+c# icollection,TRUE
+isnumeric c#,TRUE
+c# dayofweek,TRUE
+c# file copy,TRUE
+c# sql connection string,TRUE
+xdocument c#,TRUE
+c# string format specifiers,TRUE
+c# truncate string,TRUE
+c# convert string to integer,TRUE
+float c#,TRUE
+c# get file extension,TRUE
+c# textbox,TRUE
+thread c#,TRUE
+cs0234 c# and asp.net the type or namespace name 'linq' does not exist in the namespace 'system' (are you missing an assembly reference?),FALSE
+cs1660 c# cannot convert lambda expression to type 'object' because it is not a delegate type,FALSE
+c# current directory,TRUE
+c# if else shorthand,FALSE
+c# currency format,TRUE
+c# encryption,TRUE
+cs1061 c# does not contain a definition for 'name' and no accessible extension method 'name' accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+c# read text file line by line,TRUE
+c# enum from string,TRUE
+c# get date,TRUE
+c# command line arguments,TRUE
+c# binaryreader,TRUE
+c# convert char array to string,TRUE
+c# current time,TRUE
+c# check if object is null,FALSE
+=> in c#,TRUE
+c# file io,TRUE
+lambda expressions c#,TRUE
+c# in,TRUE
+optional parameter c#,TRUE
+cs1525 c# invalid expression term '>',FALSE
+c# structs,TRUE
+c# this keyword,TRUE
+filesystemwatcher c#,TRUE
+graphql c#,TRUE
+cs0234 c# the type or namespace name 'extensions' does not exist in the namespace 'microsoft' (are you missing an assembly reference?),FALSE
+c# create list,TRUE
+c# static variable,TRUE
+c# ref vs out,TRUE
+c# string.substring,TRUE
+c# enum.parse,TRUE
+c# find string in string,TRUE
+c# sql query,TRUE
+c# bigint,TRUE
+c# environment variable,TRUE
+c# inline null check,FALSE
+c# primitive types,TRUE
+c# null,TRUE
+tuples c#,TRUE
+xmlserializer c#,TRUE
+c# compare dates,TRUE
+c# jsonconvert,TRUE
+c# csv,TRUE
+bubble sort c#,TRUE
+c# remove duplicates from list,TRUE
+httpclient getasync c#,TRUE
+c# extend class,TRUE
+multidimensional array c#,TRUE
+c# example,TRUE
+c# append to array,TRUE
+ca1707 c# remove the underscores from namespace name.,TRUE
+properties c#,TRUE
+cs0234 c# the type or namespace name 'identitymodel' does not exist in the namespace 'microsoft' (are you missing an assembly reference?),FALSE
+ide0046 c# 'if' statement can be simplified,FALSE
+c# extensions,TRUE
+c# websocket,TRUE
+c# elvis operator,TRUE
+httpcontext c#,TRUE
+c# machine learning,TRUE
+c# with statement,TRUE
+iqueryable c#,TRUE
+c# catch when,TRUE
+datetime.now c#,TRUE
+c# string to json,TRUE
+c# task example,TRUE
+c# stream to byte array,TRUE
+c# const array,TRUE
+c# url decode,TRUE
+c# integer,TRUE
+c# switch string,TRUE
+c# convert datetime to string,TRUE
+c# enum type,TRUE
+c# nested class,TRUE
+c# regex.replace,TRUE
+cs1061 c# 'httpclient' does not contain a definition for and no accessible extension method accepting a first argument of type 'httpclient' could be found (are you missing a using directive or an assembly reference?),FALSE
+visual c# express,TRUE
+c# named parameters,TRUE
+multithreading c#,TRUE
+convert json to c#,FALSE
+c# directory exists,TRUE
+cs0270 c# array size cannot be specified in a variable declaration (try initializing with a 'new' expression),FALSE
+regular expression c#,TRUE
+c# converter,TRUE
+listbox c#,TRUE
+c# do loop,TRUE
+dataset c#,TRUE
+cs0428 c# cannot convert method group to non-delegate type. did you intend to invoke the method?,FALSE
+c# list of lists,FALSE
+c# exponent operator,TRUE
+c# exit,TRUE
+c# unzip file,TRUE
+c# byte[] to string,TRUE
+c# int max,TRUE
+c# get files in directory,TRUE
+c# send an e mail,TRUE
+c# html parser,TRUE
+c# loop through list,TRUE
+c# pad,TRUE
+c# int tryparse,TRUE
+c# htmlencode,TRUE
+c# null check operator,FALSE
+timer in c#,TRUE
+c# concurrentqueue,TRUE
+if c#,TRUE
+cs7065 c# error building win32 resources -- icon stream is not in the expected format.,FALSE
+c# power,TRUE
+c# lastindexof,TRUE
+switch expression c#,TRUE
+c# convert to string,TRUE
+c# sort a list,TRUE
+c# wait seconds,TRUE
+c# get enum name,TRUE
+c# abstract class vs interface,TRUE
+icollection c#,TRUE
+ide0017 c# and asp.net object initialization can be simplified,FALSE
+mvc c#,TRUE
+todictionary c#,TRUE
+cs0117 c# 'console' does not contain a definition for 'writeline',FALSE
+restclient c#,TRUE
+or c#,TRUE
+newtonsoft json deserialize c#,FALSE
+cs8107 c# feature is not available in c# 7.0. please use language version 7.2 or greater.,FALSE
+c# ==,TRUE
+learn c# online,TRUE
+cs1061 c# does not contain a definition for 'add' and no accessible extension method 'add' accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+c# factorial,TRUE
+sort array c#,TRUE
+c# copy list,TRUE
+c# style guide,TRUE
+for loops c#,TRUE
+cs0272 c# the property or indexer cannot be used in this context because the set accessor is inaccessible,FALSE
+mutex c#,TRUE
+c sharp and sequel programming language,FALSE
+c# |=,TRUE
+optional parameters c#,TRUE
+mongodb c#,TRUE
+c# if not,TRUE
+c# define array,TRUE
+c# ftp,TRUE
+c# define,TRUE
+interfaces c#,TRUE
+c# remove whitespace,TRUE
+convert string to date c#,TRUE
+c# array slice,TRUE
+datetime.tostring formats c#,TRUE
+c# date to string,TRUE
+c# enum example,TRUE
+c# md5 hash,TRUE
+c# get application path,TRUE
+if statements c#,TRUE
+json serializer c#,TRUE
+json to csharp,TRUE
+cs1061 c# 'mainpage' does not contain a definition for and no accessible extension method accepting a first argument of type 'mainpage' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# selenium,TRUE
+c# assign if not null,FALSE
+c# list orderby,TRUE
+c# httpclient post,TRUE
+c# tolist,TRUE
+c# string append,TRUE
+c# call async method synchronously,TRUE
+message box c#,TRUE
+c# string left,TRUE
+c# clipboard,TRUE
+c# flags enum,TRUE
+c# copy directory,TRUE
+c# convert string to char,TRUE
+c# char array,TRUE
+c# get enum from string,TRUE
+cs0019 c# operator '+' cannot be applied to operands of type 'string' and 'method group',FALSE
+c# filesystemwatcher,TRUE
+c# asynchronous programming,TRUE
+c# coalesce operator,TRUE
+c# memberwiseclone,TRUE
+c# datatypes,TRUE
+cs1503 c# argument 2: cannot convert from 'method group' to,FALSE
+c# w3schools,TRUE
+cs8600 c# converting null literal or possible null value to non-nullable type.,FALSE
+c# valuetuple,TRUE
+priority queue c#,TRUE
+c# null conditional,TRUE
+cs0246 c# the type or namespace name 'controller' could not be found (are you missing a using directive or an assembly reference?),FALSE
+cs0012 c# the type 'valuetype' is defined in an assembly that is not referenced. you must add a reference to assembly.,FALSE
+c# foreach list,TRUE
+c# if then,TRUE
+programming in c#,TRUE
+cs1674 c# '': type used in a using statement must be implicitly convertible to 'system.idisposable',FALSE
+c# int maxvalue,TRUE
+c# raise event,TRUE
+c# string to char,TRUE
+c# iterate through dictionary,TRUE
+c# string to array,TRUE
+linq in c#,TRUE
+generics in c#,TRUE
+c# friend class,TRUE
+c# restclient,TRUE
+c# timers,TRUE
+aws lambda c#,TRUE
+var in c#,TRUE
+visual studio c# tutorial,FALSE
+c sharp tuning,TRUE
+regex.replace c#,TRUE
+cs0246 c# the type or namespace name 't' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# lookup,TRUE
+c# linq aggregate,TRUE
+cs0029 c# cannot implicitly convert type 'string' to 'string[]',FALSE
+textreader c#,TRUE
+cs1736 c# default parameter value for must be a compile-time constant,FALSE
+c# list size,TRUE
+c# global variables,TRUE
+icd9 to icd10 conversion c#,TRUE
+c# delete all files in directory,TRUE
+c# byte to string,TRUE
+c# private set,TRUE
+c sharp for beginners pdf,FALSE
+c# findindex,TRUE
+blazer c#,TRUE
+c# grpc,TRUE
+cs0308 c# the non-generic {1} cannot be used with type arguments,FALSE
+c# xelement,TRUE
+cs1662 c# cannot convert {0} to intended delegate type because some of the return types in the block are not implicitly convertible to the delegate return type,FALSE
+c# recursion,TRUE
+c# eventargs,TRUE
+c# iterator,TRUE
+c# console input,TRUE
+c# math.abs,TRUE
+c# struct constructor,TRUE
+c# blockingcollection,TRUE
+csharp enum,TRUE
+c# convert string to json,TRUE
+c# format strings,TRUE
+c# string $,TRUE
+c# return task,TRUE
+ca1014 c# mark assemblies with clscompliant,TRUE
+c# empty array,TRUE
+c# fiddler,TRUE
+c# csvhelper,TRUE
+cs0030 c# cannot convert type 'char' to 'string',FALSE
+c# serialize,TRUE
+cs0029 c# cannot implicitly convert type 'string' to 'char',FALSE
+nullable c#,TRUE
+c# date time format,FALSE
+cs0103 c# the name 'url' does not exist in the current context,FALSE
+c# repository pattern,TRUE
+enum to string c#,TRUE
+c# datetime string format,TRUE
+c# add item to array,TRUE
+c# round double,TRUE
+c# generic array,TRUE
+c# xml comments,TRUE
+c# convert double to decimal,TRUE
+gethashcode c#,TRUE
+backgroundworker c#,TRUE
+for each loop c#,FALSE
+c# datagrid,TRUE
+c# polly,TRUE
+c# httpresponsemessage,TRUE
+regex in c#,TRUE
+xor c#,TRUE
+cs0029 c# cannot implicitly convert type 'bool' to 'int',FALSE
+free c# tutorial pdf,FALSE
+c# colors,TRUE
+c# task.whenall,TRUE
+c# decimal format,TRUE
+cs0742 c# a query body must end with a select clause or a group clause,FALSE
+c# #if debug,TRUE
+download visual studio 2015 c#,FALSE
+and in c#,TRUE
+c# generic function,TRUE
+virtual method c#,TRUE
+c# start process,TRUE
+urlencode c#,TRUE
+c# ienumerator,TRUE
+int array c#,TRUE
+c# main method,TRUE
+c# csv reader,TRUE
+decorator pattern c#,TRUE
+cs1503 test c# argument 1: cannot convert from to,FALSE
+c# concurrentbag,TRUE
+c# static class constructor,FALSE
+processstartinfo c#,TRUE
+cs1503 c# argument 1: cannot convert from 'system.windows.forms.textbox' to 'string',FALSE
+cs0029 c# cannot implicitly convert type 'string[]' to 'string',FALSE
+c# tutorial pdf,TRUE
+memorycache c#,TRUE
+c# list select,TRUE
+lists c#,TRUE
+c# bitwise and,TRUE
+c# setter,TRUE
+c# processstartinfo,TRUE
+fluentassertions c#,TRUE
+c# task.delay,TRUE
+c# type alias,TRUE
+c vs c#,TRUE
+c# convert double to string,TRUE
+c# flags,TRUE
+c# tostring formats,TRUE
+set c#,TRUE
+c# print array,TRUE
+c# async method,TRUE
+add to array c#,TRUE
+c# format double,TRUE
+c# generate random string,TRUE
+c# string to float,TRUE
+textwriter c#,TRUE
+what's new in c# 8,FALSE
+cs0234 c# the type or namespace name 'web' does not exist in the namespace (are you missing an assembly reference?),FALSE
+inheritance in c#,TRUE
+c# check if null,FALSE
+c# online ide,TRUE
+cs0029 c# cannot implicitly convert type to 'system.collections.generic.list<string>',FALSE
+c# field vs property,FALSE
+cs0656 test c# missing compiler required member 'microsoft.csharp.runtimebinder.binder.convert',FALSE
+using in c#,TRUE
+blockingcollection c#,TRUE
+c# foreach continue,TRUE
+microsoft visual c#,TRUE
+c# json object,TRUE
+c# empty list,TRUE
+url encode c#,TRUE
+c# callermembername,TRUE
+c# iformatprovider,TRUE
+send email c#,TRUE
+c# array list,TRUE
+c# array vs list,TRUE
+c# html encode,TRUE
+convert c#,TRUE
+convert array to list c#,TRUE
+c# interface default implementation,TRUE
+c# background worker,TRUE
+unreal engine c#,TRUE
+c# anonymous class,TRUE
+savefiledialog c#,TRUE
+c# 7 features,TRUE
+c# dictionary index,TRUE
+c# virtual class,TRUE
+cs1503 test c# argument 2: cannot convert from 'string[]' to 'string',FALSE
++= c#,TRUE
+c# 8 nullable reference types,FALSE
+c# foreach break,TRUE
+datetime.parse c#,TRUE
+new line c#,TRUE
+dynamic array c#,TRUE
+xaml0414 xaml and c# namespace is missing,TRUE
+c# bool to int,TRUE
+c# rename a file,TRUE
+concurrent list c#,TRUE
+datetime to string c#,TRUE
+c# tree,TRUE
+c# null conditional operator,FALSE
+compareto c#,TRUE
+c# powershell,TRUE
+c# file.move,TRUE
+c# numeric types,TRUE
+c# list distinct,TRUE
+cs1503 c# argument 2: cannot convert from to 'string',FALSE
+c# msgbox,TRUE
+namespace in c#,TRUE
+semaphore c#,TRUE
+dv2001 c# the project does not reference any dependency validation diagrams or referenced diagrams are not valid. dependency validation will not be performed.,FALSE
+switch case in c#,FALSE
+c# finalizer,TRUE
+c# functional programming,TRUE
+c# xor operator,TRUE
+c# user input,TRUE
+c# search string,TRUE
+c# string find,TRUE
+c# string format date,TRUE
+c# class vs struct,FALSE
+c# wpf tutorial,TRUE
+c# encapsulation,TRUE
+c# logger,TRUE
+process.start c#,TRUE
+polly c#,TRUE
+char c#,TRUE
+c# list of tuples,FALSE
+cs0815 c# cannot assign method group to an implicitly-typed variable,FALSE
+c# gitignore,TRUE
+if statement in c#,FALSE
+convert string to float c#,TRUE
+c# xpath,TRUE
+c# get current year,TRUE
+c# int max value,TRUE
+c# convert float to int,TRUE
+c# sql connection,TRUE
+c# memorystream to string,TRUE
+c# float vs double,TRUE
+c# post request,TRUE
+c# string to decimal,TRUE
+pass by reference c#,TRUE
+c# cast to int,TRUE
+c# sha256,TRUE
+wait c#,TRUE
+c# initialize array with values,TRUE
+c# dateadd,TRUE
+c# number types,TRUE
+cs0103 c# the name 'request' does not exist in the current context,FALSE
+c# named tuples,TRUE
+c# dictionary sort,TRUE
+c# catch multiple exception types,FALSE
+constructor in c#,TRUE
+c# library,TRUE
+cs0029 c# cannot implicitly convert type 'char' to 'string',FALSE
+c# json serialize,TRUE
+predicate c#,TRUE
+c sharp for beginners,FALSE
+c# mongodb,TRUE
+c# unique list,TRUE
+c# rest client,TRUE
+c# not null,TRUE
+c# concat,TRUE
+c# 8 using,TRUE
+c# serialize json,TRUE
+cs0266 c# cannot implicitly convert type 'long' to 'int'. an explicit conversion exists (are you missing a cast?),FALSE
+c# exclusive or,TRUE
+c# data annotations,TRUE
+c# value types,TRUE
+c# xml documentation,TRUE
+c# anonymous method,TRUE
+c# thread safe list,TRUE
+c# resize array,TRUE
+c# messagebox example,TRUE
+c# tuple example,TRUE
+new array c#,TRUE
+c# sleep for milliseconds,TRUE
+learn c# free,TRUE
+cs0246 c# the type or namespace name 'streamreader' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# datareader,TRUE
+linq foreach c#,TRUE
+c# iequalitycomparer,TRUE
+cs1936 c# could not find an implementation of the query pattern for source type. 'select' not found.,FALSE
+tuple in c#,TRUE
+c# checkbox,TRUE
+c# try catch exception,FALSE
+c# http post,TRUE
+c# random class,TRUE
+c# if then else,FALSE
+unity c# tutorial,TRUE
+c# const vs readonly,FALSE
+fibonacci sequence c#,TRUE
+c# webbrowser,TRUE
+c# convert datetime to date,TRUE
+c# string.empty,TRUE
+c# local functions,TRUE
+c# string to bytes,TRUE
+c# create string array,TRUE
+string to char array c#,TRUE
+c# carriage return,TRUE
+c# array join,TRUE
+c# serialize object,TRUE
+c# generic interface,TRUE
+c# calculator,TRUE
+c# valuetask,TRUE
+c# list remove duplicates,FALSE
+strategy pattern c#,TRUE
+c# vs .net,TRUE
+cs0246 c# the type or namespace name 'httpclient' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# in keyword,TRUE
+c# semaphoreslim,TRUE
+c# if null,TRUE
+linq distinct c#,TRUE
+cs0103 c# the name 'globalconfiguration' does not exist in the current context,FALSE
+json to c# object,FALSE
+c# list join,TRUE
+cs0656 c# missing compiler required member,FALSE
+c# class library,TRUE
+c# async void,TRUE
+learn c# programming,TRUE
+c# ++ operator,TRUE
+c# use of unassigned local variable,TRUE
+c# find character in string,TRUE
+c# string to bool,TRUE
+c# csv parser,TRUE
+c# add element to array,TRUE
+c# sort dictionary,TRUE
+c# convert char to string,TRUE
+c# interface inheritance,TRUE
+c# double to string,TRUE
+c# new thread,TRUE
+c# enum parse,TRUE
+cs1061 c# and asp.net does not contain a definition for 'context' and no accessible extension method 'context' accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+c# catch exception,TRUE
+cs8026 c# feature 'interpolated strings' is not available in c# 5. please use language version 6 or greater.,FALSE
+c# square,TRUE
+try catch in c#,FALSE
+cs0029 c# cannot implicitly convert type 'string' to 'system.datetime',FALSE
+c# folderbrowserdialog,TRUE
+c# args,TRUE
+regular expressions c#,TRUE
+c# throw new exception,FALSE
+c# alias,TRUE
+c# razor,TRUE
+c# date formatting,TRUE
+cs0579 c# duplicate 'assemblytitle' attribute,FALSE
+assert c#,TRUE
+c# opengl,TRUE
+event handler c#,TRUE
+c# ?:,TRUE
+listview c#,TRUE
+pointers in c#,TRUE
+c# for loop example,TRUE
+c# int size,TRUE
+gettype c#,TRUE
+c# datetime to string format,TRUE
+c# ulong,TRUE
+c# ienumerable count,TRUE
+c# quotes in string,TRUE
+c# get and set,TRUE
+c# get current method name,TRUE
+c# mysql,TRUE
+get current directory c#,TRUE
+c# relative path,TRUE
+c# interface vs abstract class,TRUE
+c# error handling,TRUE
+c# history,TRUE
+c# readonly list,TRUE
+date format c#,TRUE
+c# object initializer,TRUE
+inversion of control c#,FALSE
+parallel foreach c#,TRUE
+c# object reference not set to an instance of an object,FALSE
+dependency injection in c#,FALSE
+windows service c#,TRUE
+c# generic value type,FALSE
+c# picturebox,TRUE
+cs1620 c# argument 1 must be passed with the 'ref' keyword,FALSE
+msdn c#,TRUE
+visual basic vs c#,FALSE
+cs1503 c# argument 1: cannot convert from 'object' to 'string',FALSE
+how to convert string to int c#,TRUE
+merge sort c#,TRUE
+new line in c#,TRUE
+c# json string,TRUE
+c# get file extension from filename,TRUE
+c# convert object to string,TRUE
+c# string.remove,TRUE
+c# round down,TRUE
+c# add to string array,TRUE
+c# messagebox.show,TRUE
+c# convert char to int,TRUE
+print c#,TRUE
+c# builder pattern,TRUE
+c# web app,TRUE
+what is a class in c#,FALSE
+c# default keyword,TRUE
+c# linq except,TRUE
+cs0111 c# type 'program' already defines a member called 'main' with the same parameter types,FALSE
+c# smtpclient,TRUE
+c# tooltip,TRUE
+xml to c# class,FALSE
+c# coalesce,TRUE
+c# throw exception example,FALSE
+cs1738 c# named argument specifications must appear after all fixed arguments have been specified. please use language version {0} or greater to allow non-trailing named arguments.,FALSE
+c# property vs field,FALSE
+list<t> c#,TRUE
+math.ceiling c#,TRUE
+c# task wait,TRUE
+c# foreach linq,TRUE
+c# ~,TRUE
+c# ushort,TRUE
+c# any,TRUE
+c# nullable types,TRUE
+best way to learn c#,FALSE
+c# byte literal,TRUE
+rename file c#,TRUE
+c# length of array,TRUE
+c# pdf library,TRUE
+c# string manipulation,TRUE
+c# literal string,TRUE
+c# custom event,TRUE
+c# exit for,TRUE
+access modifiers c#,TRUE
+c# file path,TRUE
+c# linq query,TRUE
+c# single,TRUE
+c# 7.3,TRUE
+eventhandler c#,TRUE
+c# newline character,TRUE
+c# is numeric,TRUE
+c# static property,TRUE
+c# ziparchive,TRUE
+c# tolower,TRUE
+cs1069 c# the type name 'serialport' could not be found in the namespace. this type has been forwarded to assembly consider adding a reference to that assembly.,FALSE
+c# textfieldparser,TRUE
+poco c#,TRUE
+c# date time,TRUE
+cs1503 c# argument 1: cannot convert from 'int?' to 'int',FALSE
+c# custom exceptions,TRUE
+c# connection string,TRUE
+c# write to a file,TRUE
+c# string format padding,TRUE
+print in c#,TRUE
+c# elapsed time,TRUE
+c# sample code,TRUE
+c# float to int,TRUE
+c# cast object to generic type,TRUE
+c# tostring currency,TRUE
+enums in c#,TRUE
+c# byte array to stream,TRUE
+c# string format decimal,TRUE
+aspect oriented programming c#,TRUE
+check if file exists c#,TRUE
+c# get set property,TRUE
+c# deprecated attribute,TRUE
+null coalescing operator c#,FALSE
+c# string compare ignorecase,TRUE
+cs0246 c# the type or namespace name 'openqa' could not be found (are you missing a using directive or an assembly reference?),FALSE
+cs0246 c# the type or namespace name 'xunit' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# compare two lists,FALSE
+c# list to dictionary,FALSE
+c# await task,TRUE
+c# order of operations,FALSE
+cs0029 c# cannot implicitly convert type 'void' to 'int',FALSE
+cs8026 c# feature 'null propagating operator' is not available in c# 5. please use language version 6 or greater.,FALSE
+cs0103 c# the name 'view' does not exist in the current context,FALSE
+c# transactionscope,TRUE
+cs0103 c# the name 'scripts' does not exist in the current context,FALSE
+c# exit application,TRUE
+c# get enum value,TRUE
+c# connect to sql server,TRUE
+c# string array initialize,TRUE
+c# loop through array,TRUE
+c# inconsistent accessibility,TRUE
+c# open excel file,TRUE
+c# list to comma separated string,TRUE
+c# object array,TRUE
+c# regex example,TRUE
+c# convert double to float,TRUE
+c# convert utc to local time,TRUE
+c# courses,TRUE
+try c#,TRUE
+httpstatuscode c#,TRUE
+long c#,TRUE
+c# logical or,TRUE
+c# math library,TRUE
+modulus c#,TRUE
+c# learn,TRUE
+c# null coalescing,TRUE
+cs0246 c# the type or namespace name 'text' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# tuple named items,FALSE
+c# pattern matching switch,FALSE
+c# number formatting,TRUE
+cs0023 c# operator '.' cannot be applied to operand of type 'void',FALSE
+c# linq todictionary,TRUE
+c# parallel,TRUE
+c# class property,TRUE
+cs0029 c# cannot implicitly convert type 'string' to 'decimal',FALSE
+c# list index,TRUE
+c# service,TRUE
+c# &=,TRUE
+c# double precision,TRUE
+c# stringcontent,TRUE
+c# append to text file,TRUE
+c# clear list,TRUE
+c# convert date to string,TRUE
+c# execute stored procedure,TRUE
+c# close form,TRUE
+list to string c#,TRUE
+c# check if folder exists,TRUE
+enums c#,TRUE
+trygetvalue c#,TRUE
+builder pattern c#,TRUE
+c# cast enum to int,TRUE
+initialize list c#,TRUE
+reverse string c#,TRUE
+enum.parse c#,TRUE
+create array c#,TRUE
+background worker c#,TRUE
+c# task run,TRUE
+ternary c#,TRUE
+c# create json object,FALSE
+powershell c#,TRUE
+c# !=,TRUE
+c# nan,TRUE
+c# linq sort,TRUE
+app.config c#,TRUE
+c# private class,TRUE
+c# covariance,TRUE
+c# default constructor,TRUE
+c# dbnull,TRUE
+lazy c#,TRUE
+udemy c#,TRUE
+c# 8 pattern matching,FALSE
+cs1061 visual studio tools for office vsto c# does not contain a definition for and no accessible extension method accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+threading c#,TRUE
+ide0062 c# local function can be made static,FALSE
+c# software,TRUE
+c# in a nutshell,FALSE
+csharp dictionary,TRUE
+cs0430 c# the extern alias was not specified in a /reference option,FALSE
+c# if shorthand,TRUE
+c# xmlwriter,TRUE
+cs0234 c# the type or namespace name 'interop' does not exist in the namespace 'microsoft.office' (are you missing an assembly reference?),FALSE
+cs0021 c# cannot apply indexing with [] to an expression of type 'object',FALSE
+c# overload,TRUE
+c# call rest api,TRUE
+c# aes encryption,TRUE
+c# find in list,TRUE
+c# integer to string,TRUE
+c# cast to generic from type,TRUE
+c# integer types,TRUE
+c# dictionary get value by key,TRUE
+c# get value from dictionary,TRUE
+c# cancel task,TRUE
+c# search list,TRUE
+c# questions,TRUE
+vector c#,TRUE
+cs0305 c# using the generic type 'stack<t>' requires 1 type arguments,TRUE
+static in c#,TRUE
+c# file size,TRUE
+tensorflow c#,TRUE
+cs0165 c# use of unassigned local variable 'x',FALSE
+c# null propagation,TRUE
+c# rounding,TRUE
+read json file c#,FALSE
+c# closure,TRUE
+c# contains case insensitive,FALSE
+c# list of objects,FALSE
+c# dialog box,TRUE
+c# certification microsoft,TRUE
+c# logical and,TRUE
+class constructor c#,TRUE
+c# bool?,TRUE
+cs0111 c# type already defines a member called 'initializecomponent' with the same parameter types,FALSE
+kansas city c# programming jobs,FALSE
+c# file.create,TRUE
+named tuple c#,TRUE
+cs1503 c# argument 1: cannot convert from to 'system.windows.forms.form',FALSE
+c# shuffle list,TRUE
+methods in c#,TRUE
+binary search c#,TRUE
+c# join string array,TRUE
+deserialize xml c#,TRUE
+two dimensional array c#,TRUE
+c# switch case string,TRUE
+c# replace substring,TRUE
+c# convert to float,TRUE
+c# escape character,TRUE
+c# dll,TRUE
+abstract vs interface c#,TRUE
+c# find,TRUE
+c# get type from string,TRUE
+rest api c#,TRUE
+c# expression tree,TRUE
+cs0246 c# the type or namespace name 'devexpress' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# web service,TRUE
+c# &,TRUE
+cs8321 c# the local function 'update' is declared but never used,FALSE
+cs1061 c# does not contain a definition for 'tolist' and no accessible extension method 'tolist' accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+nullable reference types c#,FALSE
+c# http client,TRUE
+cs1936 c# could not find an implementation of the query pattern for source type. 'where' not found.,FALSE
+c# directoryentry,TRUE
+c# regular expression tester,FALSE
+bl0004 c# component parameter should be public.,FALSE
+c# iqueryable,TRUE
+c# graphql,TRUE
+c# json to object,FALSE
+c# datetime ticks,TRUE
+data types in c#,FALSE
+?. c#,TRUE
+base64 encode c#,TRUE
+c# check if directory exists,TRUE
+c# create excel file,TRUE
+split in c#,TRUE
+byte to string c#,TRUE
+c# byte array to hex string,TRUE
+uribuilder c#,TRUE
+convert string to bool c#,TRUE
+c# convert bool to int,TRUE
+c# ref struct,TRUE
+api1000 c# action method returns undeclared status code.,TRUE
+c# html decode,TRUE
+c# getenumerator,TRUE
+cs3002 c# return type of is not cls-compliant,TRUE
+c# streams,TRUE
+jsonserializer c#,TRUE
+c# property syntax,TRUE
+c# 8 new features,FALSE
+"<%@ page language=""c#"" debug=""true"" %>",FALSE
+c# binary tree,TRUE
+map c#,TRUE
+cs0037 c# cannot convert null to 'bool' because it is a non-nullable value type,FALSE
+c# protected vs private,FALSE
+byte c#,TRUE
+c# task continuewith,TRUE
+c# unit tests,TRUE
+blazor tutorial c#,TRUE
++= in c#,TRUE
+cs1503 c# argument 2: cannot convert from 'string[]' to 'string',FALSE
+c# trimstart,TRUE
+c# for loop syntax,FALSE
+xml to json c#,FALSE
+c# progressbar,TRUE
+cs0234 c# the type or namespace name 'services' does not exist in the namespace (are you missing an assembly reference?),FALSE
+c# create dictionary,TRUE
+method c#,TRUE
+c# enum description,TRUE
+generic constraint c#,TRUE
+string[] c#,TRUE
+c# out vs ref,TRUE
+postasjsonasync c#,TRUE
+string formatting c#,TRUE
+c# double vs float,TRUE
+c# get time,TRUE
+write to text file c#,TRUE
+access to the path is denied c#,TRUE
+methods c#,TRUE
+replace c#,TRUE
+c# write to event log,TRUE
+c# not,TRUE
+cs1726 c# friend assembly reference is invalid. strong-name signed assemblies must specify a public key in their internalsvisibleto declarations.,FALSE
+c# generic type,TRUE
+c# linq selectmany,TRUE
+c# & operator,TRUE
+c# ocr,TRUE
+c# dictionary to json,FALSE
+cs1501 c# no overload for method takes 6 arguments,FALSE
+c# namespaces,TRUE
+boolean c#,TRUE
+c# virtual vs abstract,FALSE
+c# \r,TRUE
+cs1660 c# cannot convert lambda expression to type 'delegate' because it is not a delegate type,FALSE
+mod c#,TRUE
+how to use c#,FALSE
+c# application path,TRUE
+specified cast is not valid c#,FALSE
+wpf c#,TRUE
+json to c# converter,FALSE
+drop c#,TRUE
+c# array add,TRUE
+string reverse c#,TRUE
+convert c# to vb.net code,TRUE
+c# naming convention,TRUE
+c# http get,TRUE
+convert to generic object c#,TRUE
+unit test c#,TRUE
+c# int64,TRUE
+c# pause seconds,TRUE
+c# string format number,TRUE
+c# mock,TRUE
+servicepointmanager c#,TRUE
+http request c#,TRUE
+c# list files in directory,TRUE
+c# extends,TRUE
+c# linq union,TRUE
+c# datacontract,TRUE
+c# linq contains,TRUE
+c# abstract vs virtual,FALSE
+exceldatareader c#,TRUE
+generic collections in c#,FALSE
+c# linq any,TRUE
+c sharp list,TRUE
+pinvoke c#,TRUE
+c# 9 features,TRUE
+cs0103 c# the name 'styles' does not exist in the current context,FALSE
+c# appsettings,TRUE
+c# property set,TRUE
+c# <<,TRUE
+c# deconstruct,TRUE
+c# as operator,TRUE
+c# if else if,FALSE
+ilogger c#,TRUE
+c# linq sum,TRUE
+c# discord bot,TRUE
+c# inotifypropertychanged,TRUE
+cs1643 c# not all code paths return a value in lambda expression of type,FALSE
+c# compare two strings,FALSE
+async task c#,TRUE
+c# string starts with,TRUE
+static method c#,TRUE
+c# regex examples,TRUE
+c# parse html,TRUE
+c# parse string to int,TRUE
+open file dialog c#,TRUE
+create new generic class c#,TRUE
+arraylist in c#,TRUE
+c# pass function as parameter,TRUE
+c# convert list to string,TRUE
+c# foreach array,TRUE
+list to array c#,TRUE
+how to print in c#,TRUE
+get and set c#,TRUE
+c# convert string to array,TRUE
+c# string to byte[],TRUE
+create file c#,TRUE
+entity framework stored procedure c#,TRUE
+$ in c#,TRUE
+asp.net c#,TRUE
+c# cache,TRUE
+c# for loops,TRUE
+cs0515 c# '': access modifiers are not allowed on static constructors,FALSE
+c# padright,TRUE
+cs0234 c# the type or namespace name 'configurationmanager' does not exist in the namespace 'system.configuration' (are you missing an assembly reference?),FALSE
+c# tertiary operator,TRUE
+linq query c#,TRUE
+c# uppercase,TRUE
+classes in c#,TRUE
+unity c# cannot implicitly convert type generic list to generic list,FALSE
+task.whenall c#,TRUE
+threading in c#,TRUE
+c# version history,TRUE
+c# exercises,TRUE
+clr via c#,TRUE
+c# is not,TRUE
+razor c#,TRUE
+cs0246 c# the type or namespace name 'excel' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# convert long to int,TRUE
+unit of work pattern c#,TRUE
+c# clone list,TRUE
+c# create csv file,TRUE
+c# find in string,TRUE
+list vs array c#,TRUE
+c# check if string is numeric,TRUE
+read xml file c#,TRUE
+sleep in c#,TRUE
+c# random number 1-10,TRUE
+c# new object,TRUE
+c# dataview,TRUE
+c# sqlbulkcopy,TRUE
+c# generic not ienumerable,TRUE
+c# verbatim string,TRUE
+c# get today's date,TRUE
+c# length of list,TRUE
+c# remove from list,TRUE
+c# create object,TRUE
+c# parse string to enum,TRUE
+c# replace character in string,TRUE
+c# array append,TRUE
+c# array count,TRUE
+c# ilogger,TRUE
+program does not contain a static main c#,FALSE
+c# thread join,TRUE
+cs0428 c# cannot convert method group to non-delegate type 'int'. did you intend to invoke the method?,FALSE
+cs0246 c# the type or namespace name 'task<>' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# nullable datetime,TRUE
+c# if file exists,TRUE
+c# records,TRUE
+cs0246 test c# the type or namespace name 'nunit' could not be found (are you missing a using directive or an assembly reference?),FALSE
+cs0246 c# the type or namespace name 'officeopenxml' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# tutorials with examples pdf,FALSE
+c# assembly version,TRUE
+pattern matching c#,TRUE
+webrequest c#,TRUE
+c# system.text.json,TRUE
+data types c#,TRUE
+cs1061 c# 'object' does not contain a definition for and no extension method accepting a first argument of type 'object' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# datetime null,TRUE
+folderbrowserdialog c#,TRUE
+exception handling c#,TRUE
+cs8019 c# unnecessary using directive.,FALSE
+c# richtextbox,TRUE
+c# isdate,TRUE
+cs0246 c# the type or namespace name 'applicationdbcontext' could not be found (are you missing a using directive or an assembly reference?),FALSE
+convert string to decimal c#,TRUE
+getter setter c#,TRUE
+c# automatic cleaning generic collection class,TRUE
+c# convert string to number,TRUE
+c# write byte array to file,TRUE
+c# write csv file,TRUE
+c# break foreach,TRUE
+c# ordereddictionary,TRUE
+c# reverse array,TRUE
+c# list<string>,TRUE
+c# write generic data serializer,TRUE
+string to float c#,TRUE
+array to string c#,TRUE
+c# left string,TRUE
+c# bitwise,TRUE
+c# parseint,TRUE
+c# language specification,TRUE
+c# switch default,TRUE
+cs1503 c# argument 1: cannot convert from 'system.collections.ienumerable' to 'string',FALSE
+assembly c#,TRUE
+serializable c#,TRUE
+cs1061 c# does not contain a definition for 'context' and no extension method 'context' accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+generic c# where clause,FALSE
+generic collection c#,TRUE
+c# web development,TRUE
+c# async func,TRUE
+c# list where,TRUE
+c# decorator pattern,TRUE
+readline c#,TRUE
+c# ordered dictionary,TRUE
+c# linq max,TRUE
+fluentvalidation c#,TRUE
+c# list findindex,TRUE
+linq select c#,TRUE
+ca1502 c# has a cyclomatic complexity of. rewrite or refactor the code to decrease its complexity below.,TRUE
+c# active directory,TRUE
+convert string to json c#,TRUE
+c# zip file,TRUE
+string literal c#,TRUE
+c# regular expression examples,TRUE
+c# open text file,TRUE
+c# zip files,TRUE
+c# instantiate array,TRUE
+c# graph,TRUE
+c# bind listbox to a generic collection winforms,TRUE
+c# encode url,TRUE
+generic method c#,TRUE
+c# create event,TRUE
+convert generic to number type c#,TRUE
+convert string to int in c#,TRUE
+c# line break,TRUE
+c# quiz,TRUE
+c# linq count,TRUE
+c# raspberry pi,TRUE
+c# dto,TRUE
+log4net c#,TRUE
+c# xml reader,TRUE
+c# libraries,TRUE
+collections in c#,TRUE
+c# default property value,FALSE
+moq c# tutorial,TRUE
+c# igrouping,TRUE
+aurora c#,TRUE
+cs0246 c# the type or namespace name 'form' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# list append,TRUE
+c# excel library,TRUE
+generic indexer c#,TRUE
+c# foreach with index,FALSE
+json to class c#,FALSE
+c# collection types,TRUE
+csharp online,TRUE
+c# async lambda,TRUE
+unit testing in c#,TRUE
+pass generic to method c#,TRUE
+c# convert to double,TRUE
+c# enum value,TRUE
+switch statements c#,TRUE
+get the instance of a supertype using generic c#,TRUE
+c# convert byte to string,TRUE
+c# save string to file,TRUE
+using generic type in function c#,TRUE
+c# array foreach,TRUE
+c# bind listbox to a generic collection,TRUE
+create folder c#,TRUE
+c# remove item from array,TRUE
+c# instring,TRUE
+c# inheritance example,TRUE
+function c#,TRUE
+random number in c#,TRUE
+opengl c#,TRUE
+c# asynchronous programming model,FALSE
+c# day of week,TRUE
+cs2007 c# unrecognized option:,FALSE
+cs1503 c# argument 2: cannot convert from 'int' to,FALSE
+the name does not exist in current context c#,FALSE
+c# dictionary contains,TRUE
+c# bit,TRUE
+cs8070 c# control cannot fall out of switch from final case label ('case 1:'),FALSE
+ioptions c#,TRUE
+c# lambda expressions,TRUE
+c# preprocessor directives,TRUE
+c# task.wait,TRUE
+c# boolean operators,TRUE
+intro to c#,TRUE
+how to learn c# coding,FALSE
+c# selectlist,TRUE
+c# httpcontext,TRUE
+linq left join c#,FALSE
+destructor c#,TRUE
+c# generic struct,TRUE
+cs0246 c# the type or namespace name 'crystaldecisions' could not be found (are you missing a using directive or an assembly reference?),FALSE
+response.redirect c#,TRUE
+learn to code c#,FALSE
+c# bubble sort,TRUE
+c# developer salary,TRUE
+c# application settings,TRUE
+c# task await,TRUE
+c# code editor,TRUE
+stringcontent c#,TRUE
+string concat c#,TRUE
+c# xml deserialize,TRUE
+c# generic constraint not,TRUE
+datetime format strings c#,TRUE
+cast c#,TRUE
+get value from dictionary c#,TRUE
+initialize generic type c#,TRUE
+string manipulation c#,TRUE
+c# inline array,TRUE
+c# exit loop,TRUE
+c# constant array,TRUE
+c# add to dictionary,TRUE
+lambda function c#,TRUE
+c# cast list generic to list type,TRUE
+convert string to char c#,TRUE
+c# empty string,TRUE
+c# convert int to bool,TRUE
+ca1825 c# avoid unnecessary zero-length array allocations. use array.empty<string>() instead.,TRUE
+c# string null or empty,TRUE
+#if debug c#,TRUE
+hashset in c#,TRUE
+cs0400 c# the type or namespace name 'ajaxcontroltoolkit' could not be found in the global namespace (are you missing an assembly reference?),FALSE
+dbnull c#,TRUE
+case switch c#,TRUE
+swagger c#,TRUE
+csharp generic equals,TRUE
+visual studio tutorial c#,FALSE
+c# json parse,TRUE
+cs0103 c# the name 'gridview1' does not exist in the current context,FALSE
+design patterns in c#,FALSE
+c# blazor tutorial,TRUE
+javascript to c#,TRUE
+c# state machine,TRUE
+cs0246 c# the type or namespace name 'httpconfiguration' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# serialize object to json,FALSE
+operator overloading c#,TRUE
+json to object c#,FALSE
+out parameter c#,TRUE
+c# help,TRUE
+c# objects,TRUE
+cs2012 c# cannot open for writing,FALSE
+c# base constructor,TRUE
+c# game development,TRUE
+c# webassembly,TRUE
+c# for each loop,FALSE
+csharp list,TRUE
+c# nullable type,TRUE
+delegate in c#,TRUE
+c# string to hex,TRUE
+c# create pdf,TRUE
+convert double to string c#,TRUE
+string.empty c#,TRUE
+generate random number c#,TRUE
+c# string format decimal places,TRUE
+c# append to string,TRUE
+c# check if string is empty,TRUE
+c# interface example,TRUE
+c# create thread,TRUE
+c# convert generic t to type,TRUE
+c# generic overload accept ienumerable,TRUE
+c# format decimal,TRUE
+c# public enum,TRUE
+generic constraint c# number,TRUE
+latest version of c#,FALSE
+c# label,TRUE
+cs1061 c# 'gameobject' does not contain a definition for and no accessible extension method accepting a first argument of type 'gameobject' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# index operator,TRUE
+cs0234 c# the type or namespace name does not exist in the namespace 'system.windows' (are you missing an assembly reference?),FALSE
+c# if not null,FALSE
+oops concepts in c#,FALSE
+starting out with visual c#,FALSE
+c# override ==,TRUE
+ca2007 c# do not directly await a task without calling configureawait,FALSE
+c# cancellation token,TRUE
+c# poco,TRUE
+cs0234 c# the type or namespace name 'xrm' does not exist in the namespace 'microsoft' (are you missing an assembly reference?),FALSE
+cs7027 c# error signing output with public key from file -- could not find a part of the path.,FALSE
+continuewith c#,TRUE
+c# mvc tutorial,TRUE
+ide0059 c# value assigned to is never used,FALSE
+c# new keyword,TRUE
+c# currency,TRUE
+c# enum int,TRUE
+c# serialize to xml,TRUE
+interfaces in c#,TRUE
+c# printf,TRUE
+convert int to enum c#,TRUE
+c# listview example,TRUE
+c# format date string,TRUE
+c# date tostring,TRUE
+c# list example,TRUE
+c# uuid,TRUE
+c# get working directory,TRUE
+c# url encode string,TRUE
+char to string c#,TRUE
+check type of generic type c#,TRUE
+c# httprequestmessage,TRUE
+c# subarray,TRUE
+c# $string,TRUE
+jsonconvert.deserializeobject example c#,TRUE
+c# isnumber,TRUE
+web api c#,TRUE
+thread safe list c#,TRUE
+c# switch example,TRUE
+c# binary serialization,TRUE
+c# best practices,TRUE
+c# derived class,TRUE
+cs1615 c# argument 1 may not be passed with the 'ref' keyword,FALSE
+or operator c#,TRUE
+cs0568 c# structs cannot contain explicit parameterless constructors,FALSE
+c# chart,TRUE
+convert xml to json c#,FALSE
+c# vs f#,TRUE
+c# gridview,TRUE
+c# 8.0 switch expression,FALSE
+cs0246 c# the type or namespace name 'documentformat' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# overload constructor,TRUE
+c# using as,TRUE
+xmlelement c#,TRUE
+c# games,TRUE
+list contains c#,TRUE
+machine learning c#,TRUE
+c# memory stream,TRUE
+collection c#,TRUE
+cs1941 c# the type of one of the expressions in the join clause is incorrect. type inference failed in the call to 'groupjoin'.,FALSE
+c# linq firstordefault,TRUE
+cs0104 c# 'vector2' is an ambiguous reference between and 'unityengine.vector2',FALSE
+c# 8 using statement,TRUE
+selectmany linq c#,TRUE
+multiple inheritance c#,TRUE
+c# tpl,TRUE
+datetime c# format,TRUE
+c# : operator,TRUE
+c# certifications,TRUE
+orderby c#,TRUE
+implicit conversion c#,TRUE
+c# get type,TRUE
+c# average,TRUE
+c# declare variable,TRUE
+int to enum c#,TRUE
+c# array of string,TRUE
+c# get substring,TRUE
+c# assembly reference,TRUE
+c# hex to int,TRUE
+c# class get set,TRUE
+httpget attribute c#,TRUE
+c# static interface,TRUE
+c# right,TRUE
+c# end program,TRUE
+c# return array,TRUE
+int? c#,TRUE
+c# save file,TRUE
+c# run command line,TRUE
+c# string format currency,TRUE
+getters and setters c#,TRUE
+c# generic valuetype or string,TRUE
+csharp generic find all properties,TRUE
+exit for loop c#,TRUE
+char array c#,TRUE
+enumerator c#,TRUE
+c# convert to decimal,TRUE
+c# remove character from string,TRUE
+c# delete a file,TRUE
+c# event example,TRUE
+generic collections and non generic collecitons in c#,TRUE
+convert.todatetime c#,TRUE
+expression tree c# generic,TRUE
+create a new t generic c#,TRUE
+cs1106 c# extension method must be defined in a non-generic static class partial calass,TRUE
+c# generic unbounded generic types,TRUE
+c# filter list,TRUE
+c# email,TRUE
+list length c#,TRUE
+c# list removeall,TRUE
+c# mono,TRUE
+cs0029 c# cannot implicitly convert type 'system.threading.tasks.task<string>' to 'string',FALSE
+c# jsonserializer,TRUE
+c# t,TRUE
+case in c#,TRUE
+quicksort c#,TRUE
+c# memory cache,TRUE
+c# case insensitive compare,TRUE
+vb to c# converter online,FALSE
+c# patterns,TRUE
+webassembly c#,TRUE
+c# stackalloc,TRUE
+c# datetime timezone,TRUE
+c# parameters,TRUE
+constructors c#,TRUE
+c# mvvm,TRUE
+c# task scheduler,TRUE
+c# dialogresult,TRUE
+async main c#,TRUE
+c# url,TRUE
+c# task async,TRUE
+class in c#,TRUE
+c# filewatcher,TRUE
+c# format double to 2 decimals,FALSE
+coding in c#,TRUE
+c# tolookup,TRUE
+properties in c#,TRUE
+operators in c#,TRUE
+c# thread pool,TRUE
+c# join array,TRUE
+c# format datetime yyyy-mm-dd,TRUE
+executereader c#,TRUE
+convert string to long c#,TRUE
+c# left function,TRUE
+convert datetime to string c#,TRUE
+c# web request,TRUE
+c# split by string,TRUE
+generic to byte array c#,TRUE
+c# object reference,TRUE
+c# group by,TRUE
+c# split string by string,TRUE
+array list c#,TRUE
+c# string search,TRUE
+c# write generic serializer,TRUE
+c# escape string,TRUE
+access modifiers in c#,TRUE
+c# backgroundworker example,TRUE
+c# double array,TRUE
+read text file c#,TRUE
+c# testing,TRUE
+c# cheat sheet pdf,TRUE
+parallel.for c#,TRUE
+c# pinvoke,TRUE
+c# postasync,TRUE
+c# blog,TRUE
+javascript vs c#,TRUE
+c# object type,TRUE
+stack in c#,TRUE
+cs0234 c# the type or namespace name 'automation' does not exist in the namespace 'system.management' (are you missing an assembly reference?),FALSE
+cs0234 c# the type or namespace name does not exist in the namespace 'ajaxcontroltoolkit' (are you missing an assembly reference?),FALSE
+events in c#,TRUE
+c# xml serializer,TRUE
+c# taskcompletionsource,TRUE
+c# operator ?,TRUE
+transactionscope c#,TRUE
+c# 101,TRUE
+c# class destructor,TRUE
+case statement in c#,FALSE
+cs1069 c# the type name could not be found in the namespace 'system.configuration'. this type has been forwarded to assembly consider adding a reference to that assembly.,FALSE
+c# linq left join,FALSE
+current version of c#,FALSE
+if statements in c#,FALSE
+dispose c#,TRUE
+decimal in c#,TRUE
+c# linq take,TRUE
+c# programming exercises,TRUE
+c# bootcamp,TRUE
+c# event handlers,TRUE
+c# !,TRUE
+c# pass method as parameter,TRUE
+read csv file c#,TRUE
+c# double to float,TRUE
+c# create empty array,TRUE
+c# get generic for type,TRUE
+c# windows form,TRUE
+c# list string,TRUE
+c# interface static method,TRUE
+create list c#,TRUE
+c# implement interface and generic abstract,TRUE
+c# convert object to int,TRUE
+cast string to int c#,TRUE
+c# console writeline example,TRUE
+c# append string,TRUE
+c# free source codes,TRUE
+c# generic enum extension method,TRUE
+delete file c#,TRUE
+create directory c#,TRUE
+c# game,TRUE
+c# debug,TRUE
+microsoft learn c#,TRUE
+c# restsharp,TRUE
+c# settings,TRUE
+ad0001 c# analyzer threw an exception of type with messageflow-analysis''.,FALSE
+c# templates,TRUE
+c# datetime date only,FALSE
+cs1061 c# 'htmlhelper' does not contain a definition for and no accessible extension method accepting a first argument of type 'htmlhelper' could be found (are you missing a using directive or an assembly reference?),FALSE
+cs0246 c# the type or namespace name 'telerik' could not be found (are you missing a using directive or an assembly reference?),FALSE
+json parser c#,TRUE
+c# 8 nullable,TRUE
+c# modulo operator,TRUE
+cs1503 c# argument 1: cannot convert from generic <system> to system,FALSE
+factory design pattern c#,FALSE
+cancellation token c#,TRUE
+cs0246 c# the type or namespace name 'apicontroller' could not be found (are you missing a using directive or an assembly reference?),FALSE
+data annotations c#,TRUE
+cs0266 c# cannot implicitly convert type 'decimal' to 'double'. an explicit conversion exists (are you missing a cast?),FALSE
+c# observable,TRUE
+c# date diff,TRUE
+c# string is null or empty,TRUE
+c# graphics tutorial,TRUE
+custom exception c#,TRUE
+c# macro,TRUE
+c# compare,TRUE
+messagebox.show c#,TRUE
+c# find substring,TRUE
+c# iterate through enum,TRUE
+c# arraysegment,TRUE
+hello world in c#,TRUE
+convert char array to string c#,TRUE
+entity framework interview questions c#,TRUE
+c# delete folder,TRUE
+c# validate email,TRUE
+string to integer c#,TRUE
+c# convert decimal to double,TRUE
+c# exit function,TRUE
+extension methods in c#,TRUE
+c# array reverse,TRUE
+c# define generic to implicitly use type from parameter,TRUE
+c# code generator,TRUE
+c# remove whitespace from string,TRUE
+c# printdocument,TRUE
+c# generate generic for type,TRUE
+c# union generic types,TRUE
+c# reflection get property value,TRUE
+c# get request,TRUE
+c# ftp client,TRUE
+c# folder exists,TRUE
+cs0234 c# the type or namespace name does not exist in the namespace 'system.web' (are you missing an assembly reference?),FALSE
+ide0060 c# remove unused parameter 'args' if it is not part of a shipped public api,FALSE
+cs8026 c# feature is not available in c# 5. please use language version 7.0 or greater.,FALSE
+c# file dialog,TRUE
+cs1503 c# argument 2: cannot convert from 'void' to,FALSE
+c# protobuf,TRUE
+c# jwt,TRUE
+hashmap in c#,TRUE
+c# hashset vs list,FALSE
+c sharp programming download,FALSE
+nunit c#,TRUE
+c# action delegate,TRUE
+autofac c#,TRUE
+c# websocket server,TRUE
+learning c# programming,TRUE
+mvc tutorial c#,TRUE
+c# registry,TRUE
+c# foreach next,TRUE
+c# github,TRUE
+c# regex pattern,TRUE
+c# game engines,TRUE
+default constructor c#,TRUE
+generic ienumerable c#,TRUE
+c# $ string formatting,TRUE
+enum to int c#,TRUE
+set in c#,TRUE
+static variable c#,TRUE
+enumeration c#,TRUE
+c# cast as generic of type,TRUE
+c# set environment variable,TRUE
+c# string array contains,TRUE
+c# object to string,TRUE
+c# switch typeof,TRUE
+c# cast type,TRUE
+c# format decimal to 2 places,TRUE
+c# get file name,TRUE
+c# view scaffold generic class,TRUE
+#define c#,TRUE
+c# export to excel,TRUE
+c# sqlparameter,TRUE
+c# geenric unbounded generic types,TRUE
+c# print list,TRUE
+c# property get,TRUE
+c sharp array,TRUE
+c# cast object to type,TRUE
+c# exit foreach loop,TRUE
+c# initialize multidimensional array,TRUE
+c# convert int to double,TRUE
+generic type to byte array c#,TRUE
+cs0246 c# the type or namespace name 'streamwriter' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# >>,TRUE
+cs1955 c# non-invocable member 'messagebox' cannot be used like a method.,FALSE
+c# generic list of t property,TRUE
+c# standard deviation,TRUE
+state machine c#,TRUE
+cs0012 c# the type 'form' is defined in an assembly that is not referenced. you must add a reference to assembly.,FALSE
+c# orm,TRUE
+httpclient postasync c#,TRUE
+c# logical operator precedence,FALSE
+c# dynamic class,TRUE
+c# compare byte array,FALSE
+abstract classes c#,TRUE
+c# named parameter,TRUE
+c# vs javascript,TRUE
+c# embedded resource,TRUE
+null check c#,TRUE
+c# include,TRUE
+c# task vs thread,FALSE
+c# await using,TRUE
+c# using namespace,TRUE
+c# null datetime,TRUE
+serialization in c#,TRUE
+c# property initializer,TRUE
+c# inline if statement,FALSE
+c# mono generic list,FALSE
+c# ~ operator,TRUE
+configuration system failed to initialize c#,FALSE
+random in c#,TRUE
+c# directorysearcher,TRUE
+cs1061 c# 'iappbuilder' does not contain a definition for and no accessible extension method accepting a first argument of type 'iappbuilder' could be found (are you missing a using directive or an assembly reference?),FALSE
+best c# ide,TRUE
+c# 9 release date,FALSE
+c# new task,TRUE
+converting string to int c#,TRUE
+c# repeat string,TRUE
+c# right string,TRUE
+c# source code,TRUE
+write string to file c#,TRUE
+string functions c#,TRUE
+c# variable,TRUE
+c# substring method,TRUE
+aes encryption c#,TRUE
+c# struct example,TRUE
+c# sort list of objects,TRUE
+call async method synchronously c#,TRUE
+c# const string array,TRUE
+c# format phone number,TRUE
+c# call parent constructor,TRUE
+int to char c#,TRUE
+c# save text file,TRUE
+abstract method c#,TRUE
+c# string to byte,TRUE
+c# format timespan,TRUE
+c# remove substring,TRUE
+c# convert non-genric to generic,TRUE
+c# get value of enum,TRUE
+c# string split example,TRUE
+c# linq examples,TRUE
+c# iterate through list,TRUE
+length of list c#,TRUE
+c# constraints on generic,TRUE
+c# project ideas,TRUE
+c# numeric data types,FALSE
+datetime in c#,TRUE
+c# parameter,TRUE
+c# switch expressions,TRUE
+rabbitmq c#,TRUE
+c sharp tutorials,TRUE
+c# debug.print,TRUE
+list.contains c#,TRUE
+elvis operator c#,TRUE
+c# byte[],TRUE
+datediff c#,TRUE
+c# title case,TRUE
+actionresult c#,TRUE
+c# wmi,TRUE
+timezoneinfo c#,TRUE
+trie data structure c#,FALSE
+vb.net vs c#,TRUE
+newline c#,TRUE
+constructors in c#,TRUE
+dependency inversion principle c#,FALSE
+jsonresult c#,TRUE
+c# opencv,TRUE
+razor syntax c#,TRUE
+c# optional arguments,TRUE
+kafka c#,TRUE
+c# fields,TRUE
+cs1061 c# does not contain a definition for 'count' and no accessible extension method 'count' accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+c# main args,TRUE
+c# swap,TRUE
+c# readonly struct,TRUE
+selenium c# tutorial,TRUE
+c# accessors,TRUE
+anonymous object c#,TRUE
+task in c#,TRUE
+c# hex,TRUE
+c# cast object,TRUE
+c# async function,TRUE
+c# convert to datetime,TRUE
+c# ienumerable foreach,TRUE
+c# binary literal,TRUE
+c# string escape,TRUE
+user input c#,TRUE
+c# get url,TRUE
+assembly reference c#,TRUE
+c# get thread id,TRUE
+c# get ip address of machine,TRUE
+c# string literals,TRUE
+c# getter and setter,TRUE
+c# initialize 2d array,TRUE
+c# check type of object,TRUE
+c# randomize list,TRUE
+array of strings c#,TRUE
+c# datediff days,TRUE
+c# start new thread,TRUE
+format date c#,TRUE
+c# enum values,TRUE
+c# language reference pdf,TRUE
+c# pass by value,TRUE
+read excel file c#,TRUE
+vb vs c#,TRUE
+stack overflow exception c#,TRUE
+c# eval,TRUE
+c# abstract classes,TRUE
+cs1616 c# option overrides attribute given in a source file or added module,FALSE
+c# roslyn,TRUE
+c# ui,TRUE
+c# quicksort,TRUE
+raspberry pi c#,TRUE
+async constructor c#,TRUE
+c# bitwise or,TRUE
+how to program in c#,FALSE
+c# linq select where,FALSE
+c# datetime?,TRUE
+c# double literal,TRUE
+c# constructor call another constructor,FALSE
+visual studio 2019 c# tutorial,FALSE
+attributes c#,TRUE
+c# singleton class,TRUE
+c# generic collections,TRUE
+c# deque,TRUE
+cs1503 c# argument 1: cannot convert from generic method<> to,FALSE
+% operator c#,TRUE
+postasync c#,TRUE
+jsonproperty c#,TRUE
+c# using system,TRUE
+c# game programming,TRUE
+rust vs c#,TRUE
+create c# class from json,FALSE
+cs0433 c# the type 'sqldbtype' exists in both and,FALSE
+json in c#,TRUE
+okobjectresult c#,TRUE
+c# nameof keyword,TRUE
+c# sorted set,TRUE
+c# set get,TRUE
+c# code example,TRUE
+c# random numbers,TRUE
+c# implement idisposable,TRUE
+c# get set example,TRUE
+read csv c#,TRUE
+mysql c#,TRUE
+c# example code,TRUE
+c# convert string to bytes,TRUE
+c# shallow copy,TRUE
+c# delete directory,TRUE
+c# streamwriter example,TRUE
+c# hashcode,TRUE
+microsoft.extensions.logging example c#,TRUE
+wait in c#,TRUE
+c# sort dictionary by key,TRUE
+c# code online,TRUE
+introduction to c#,TRUE
+c# parse csv file,TRUE
+sqlite connection string c#,TRUE
+c# read excel,TRUE
+convert visual basic to c#,TRUE
+c# list of string,TRUE
+c# concurrent collection,TRUE
+c# equalitycomparer,TRUE
+c# uppercase first letter,TRUE
+c# create xml document,TRUE
+sort dictionary c#,TRUE
+c# read environment variable,TRUE
+missing compiler required member 'microsoft.csharp.runtimebinder.csharpargumentinfo.create,FALSE
+websocket c#,TRUE
+cs8604 c# possible null reference argument for parameter in.,FALSE
+c# curl,TRUE
+c# linq tutorial,TRUE
+c# configureawait explained,TRUE
+cs0262 c# partial declarations of 'settings' have conflicting accessibility modifiers,FALSE
+c# explicit cast,TRUE
+c# default access modifier,FALSE
+linq distinctby c#,TRUE
+sendgrid c#,TRUE
+c# rules engine,TRUE
+c# log4net,TRUE
+c# websocket client,TRUE
+excel c#,TRUE
+c# delay wait,TRUE
+system.text.json c#,TRUE
+c# class definition,TRUE
+c# jsonproperty,TRUE
+cs0305 c# using the generic type 'ienumerable<t>' requires 1 type arguments,FALSE
+c# value tuple,TRUE
+tuples in c#,TRUE
+xamarin tutorial c#,TRUE
+isnull c#,TRUE
+c# directx,TRUE
+valuetuple c#,TRUE
+c# assignment operator,TRUE
+c# proper case,TRUE
+cs0759 c# no defining declaration found for implementing declaration of partial method,FALSE
+cs0103 c# the name 'httpcontext' does not exist in the current context,FALSE
+and operator c#,TRUE
+cs1061 c# does not contain a definition for 'get' and no accessible extension method 'get' accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+c# nullable bool,TRUE
+number of days between dates c#,FALSE
+c# cast base type to derived generic,TRUE
+request.querystring c#,TRUE
+call javascript from c#,TRUE
+c# async await example,TRUE
+c# new string,TRUE
+c# enum description attribute,TRUE
+implement idisposable c#,TRUE
+parse string to int c#,TRUE
+generic methods c#,TRUE
+solid design principles c#,TRUE
+c# concurrent dictionary,TRUE
+c# why use interfaces,TRUE
+c# string.format date,TRUE
+c# read registry key,TRUE
+c# create a list,TRUE
+array contains c#,TRUE
+c# string right,TRUE
+c# thread example,TRUE
+c# goto label,TRUE
+c# start thread,TRUE
+azure key vault c#,TRUE
+% in c#,TRUE
+c# span<t>,TRUE
+object reference not set to an instance of an object c#,FALSE
+string comparison c#,TRUE
+c# deep clone,TRUE
+c# console color,TRUE
+c# underscore,TRUE
+csvreader c#,TRUE
+environment.newline c#,TRUE
+public void c#,TRUE
+getcustomattributes c#,TRUE
+c# beep,TRUE
+c# oauth,TRUE
+convert javascript to c#,FALSE
+microsoft.extensions.dependencyinjection c#,TRUE
+c# -=,TRUE
+c# lessons,TRUE
+xml c#,TRUE
+frombody c#,TRUE
+jsonobject c#,TRUE
+c# 5,TRUE
+c# 8.0 switch,TRUE
+c# named pipe,TRUE
+c# null conditional operators,FALSE
+c# 8.0 release date,FALSE
+c# linq select distinct,FALSE
+c# if else statement,FALSE
+c# count,TRUE
+c# event delegate,TRUE
+c# case when,TRUE
+cs0029 c# cannot implicitly convert type 'string' to 'system.collections.generic.list<string>',FALSE
+test is a generic is number c#,TRUE
+functional programming in c#,TRUE
+get the supertype instance generic c#,TRUE
+c# convert string to byte[],TRUE
+c# math functions,TRUE
+c# decimal to string,TRUE
+convert from data type to generic type c#,TRUE
+c# declare list,TRUE
+c# multiple return values,TRUE
+microsoft.office.interop.excel c#,TRUE
+c# object to byte array,TRUE
+functions c#,TRUE
+c# send text message,TRUE
+c# wait cursor,TRUE
+c# singleton example,TRUE
+string to array c#,TRUE
+serialize object c#,TRUE
+what is an interface in c#,TRUE
+linq intersect c#,TRUE
+c# ascii,TRUE
+c# exit while loop,TRUE
+string array in c#,TRUE
+c# web scraping,TRUE
+c# generic class like string,TRUE
+generate guid c#,TRUE
+c# read registry,TRUE
+random number generator c# code,TRUE
+c# string to number,TRUE
+sample c# code,TRUE
+c# method signature,TRUE
+coding c#,TRUE
+c# new features,TRUE
+c# list sort comparer,TRUE
+cs0155 c# the type caught or thrown must be derived from system.exception,FALSE
+c# serialize to json,FALSE
+.net decompiler c#,TRUE
+the process cannot access the file c#,FALSE
+c# delegate event,TRUE
+c# default value,TRUE
+c# filestream read,TRUE
+xunit c#,TRUE
+cs8601 c# possible null reference assignment.,FALSE
+ide0052 c# private property can be converted to a method as its get accessor is never invoked.,FALSE
+cs1503 c# argument 1: cannot convert from 'char' to 'string',FALSE
+c# practice problems,TRUE
+cs0670 c# field cannot have void type,FALSE
+c# ternary expression,TRUE
+span c#,TRUE
+linq where c#,TRUE
+c# linq unique,TRUE
+a generic error occurred in gdi+ c#,FALSE
+cs0103 c# the name 'server' does not exist in the current context,FALSE
+c# dynamic json,TRUE
+c# exception filter,TRUE
+c# class attribute,TRUE
+linq aggregate c#,TRUE
+viewbag c#,TRUE
+c# scope,TRUE
+c# aes,TRUE
+c# explicit operator,TRUE
+c# date type,TRUE
+c# bindingsource,TRUE
+c# today's date,TRUE
+c# discord,TRUE
+c# web server,TRUE
+ide for c#,TRUE
+c# to upper,TRUE
+linq sum c#,TRUE
+cs0117 c# 'resource.layout' does not contain a definition for,FALSE
+moq framework c#,TRUE
+get file size c#,TRUE
+convert float to int c#,TRUE
+c# template function,TRUE
+c# tcp server,TRUE
+convert object to string c#,TRUE
+string to json c#,TRUE
+run c# online,TRUE
+c# two dimensional array,TRUE
+c# dictionary to string,TRUE
+convert string to integer c#,TRUE
+c# line continuation,TRUE
+c# interprocess communication,TRUE
+c# copy list to list,TRUE
+how to convert string to int in c#,TRUE
+c# convert stream to byte array,TRUE
+int32 c#,TRUE
+c# declare enum,TRUE
+create new generic object c#,TRUE
+c# string repeat character,TRUE
+c# string array add item,TRUE
+c# ascii char,TRUE
+c# static variables,TRUE
+connectionstrings c#,TRUE
+c# redis,TRUE
+cs0028 c# 'program.main(string[])' has the wrong signature to be an entry point,TRUE
+global variables c#,TRUE
+html encode c#,TRUE
+c# method overloading,TRUE
+c# remove char from string,TRUE
+c# slice array,TRUE
+c# api call,TRUE
+c# sql insert,TRUE
+file.move c#,TRUE
+c# if statements,TRUE
+microsoft visual studio 2013 c#,FALSE
+addsingleton c#,TRUE
+compile c#,TRUE
+c# file move,TRUE
+c# findwindow,TRUE
+sftp c#,TRUE
+ildasm c#,TRUE
+c# input box,TRUE
+|= c#,TRUE
+c sharp dictionary,TRUE
+c# api tutorial,TRUE
+c# button,TRUE
+c# console output,TRUE
+c# shell,TRUE
+c# readonly vs const,FALSE
+factorial c#,TRUE
+microservices c#,TRUE
+c# usercontrol,TRUE
+virtual class c#,TRUE
+c# xml to json,FALSE
+implicit operator c#,TRUE
+c# like,TRUE
+c# signalr,TRUE
+c# actionresult,TRUE
+c# decimal constant,TRUE
+best ide for c#,FALSE
+c# decorator,TRUE
+c# variant,TRUE
+httplistener c#,TRUE
+ca1819 c# properties should not return arrays,FALSE
+cs0103 c# the name 'process' does not exist in the current context,FALSE
+c# project,TRUE
+c# inheritdoc,TRUE
+indexer c#,TRUE
+c# anonymous delegate,TRUE
+c# mapper,TRUE
+c# networking,TRUE
+c# list exists,TRUE
+oauth c#,TRUE
+c# sets,TRUE
+for each loop in c#,FALSE
+observer pattern c#,TRUE
+datetime formats c#,TRUE
+nullable type c#,TRUE
+c# socket server,TRUE
+c# thread wait,TRUE
+throw new exception c#,FALSE
+ad0001 c# analyzer threw an exception of type with messagemicrosoft.codeanalysis.analyzers.fixanalyzers.fixerwithfixallanalyzer`1''.,FALSE
+c# default interface implementation,TRUE
+bytes to string c#,TRUE
+comment in c#,TRUE
+trim string c#,TRUE
+escape character c#,TRUE
+ffmpeg c#,TRUE
+c# xml to object,TRUE
+c# merge sort,TRUE
+string enum c#,TRUE
+c# date to string format,TRUE
+c# increment,TRUE
+c# split on string,TRUE
+c# open form,TRUE
+write to a file c#,TRUE
+c# linq groupby examples,TRUE
+c# concatenate arrays,TRUE
+c# how to use enum,TRUE
+fibonachi c#,TRUE
+c# find item in list,TRUE
+integer division c#,TRUE
+c# get object type,TRUE
+delay in c#,TRUE
+selenium webdriver c#,TRUE
+c# invoke method,TRUE
+c# get enum by value,TRUE
+method overloading c#,TRUE
+double to float c#,TRUE
+c# dictionary get key,TRUE
+c# code snippets,TRUE
+c# create byte array,TRUE
+c# convert string to byte,TRUE
+c# convert int to byte array,TRUE
+c# httpclient postasync example,TRUE
+convert powershell to c#,TRUE
+heap c#,TRUE
+cs8072 c# an expression tree lambda may not contain a null propagating operator.,FALSE
+c# primitives,TRUE
+c# convert json to object,FALSE
+cs0246 c# the type or namespace name 'actionresult' could not be found (are you missing a using directive or an assembly reference?),FALSE
+c# dictionaries,TRUE
+c# name value pair,TRUE
+c# fundamentals,TRUE
+c# class initializer,TRUE
+c# bindinglist,TRUE
+c# timezone,TRUE
+c# microservices,TRUE
+c# convert to json,FALSE
+c# viewbag,TRUE
+c# async timer,TRUE
+c# udp,TRUE
+c# text to speech,TRUE
+c# class properties,TRUE
+c# single line if,FALSE
+c# readonly collection,TRUE
+new list c#,TRUE
+cs1061 c# 'httpcontextbase' does not contain a definition for 'getowincontext' and no accessible extension method 'getowincontext' accepting a first argument of type 'httpcontextbase' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# list to json,FALSE
+cs1729 c# 'object' does not contain a constructor that takes 1 arguments,FALSE
+await async c#,TRUE
+expression c#,TRUE
+absolute value in c#,FALSE
+cs1069 c# the type name 'oledbconnection' could not be found in the namespace. this type has been forwarded to assembly consider adding a reference to that assembly.,FALSE
+c# dictionary lookup,TRUE
+cs1069 c# the type name 'sqldataadapter' could not be found in the namespace. this type has been forwarded to assembly consider adding a reference to that assembly.,FALSE
+c# inner class,TRUE
+jsonconverter c#,TRUE
+cs1525 c# invalid expression term 'double',FALSE
+c# linq zip,TRUE
+c# foreach parallel,TRUE
+c# strategy pattern,TRUE
+c# private vs protected,FALSE
+mvvm c#,TRUE
+serialize c#,TRUE
+cs0579 c# duplicate 'assemblycompany' attribute,FALSE
+cs0030 c# cannot convert type 'system.web.httpapplication' to 'asp.global_asax',FALSE
+c# dateformat,TRUE
+c# print pdf,TRUE
+c# format time,TRUE
+c# gzip,TRUE
+c# exit foreach loop early,TRUE
+sqlparameter c#,TRUE
+c# math.random,TRUE
+c# trim spaces,TRUE
+c# webapi,TRUE
+c# linq example,TRUE
+c# sort string array,TRUE
+c# join list,TRUE
+random int c#,TRUE
+c# output to console,TRUE
+convert vb to c# online,TRUE
+question mark c#,TRUE
+c# iterate over enum,TRUE
+mongodb c# driver,TRUE
+array of arrays c#,TRUE
+parse xml c#,TRUE
+c# formatter,TRUE
+c# underscore variable,TRUE
+c# interview question,TRUE
+how to convert int to string c#,TRUE
+c# secure string,TRUE
+c# reverse a string,TRUE
+c# string array join,TRUE
+uint c#,TRUE
+c# datetime.parseexact,TRUE
+c# string find substring,TRUE
+c# |,TRUE
+cs0165 c# use of unassigned local variable 'a',FALSE
+progress bar c#,TRUE
+c# check if string is null,FALSE
+cs1061 c# does not contain a definition for 'initializecomponent' and no accessible extension method 'initializecomponent' accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+c# async delegate,TRUE
+viewstate c#,TRUE
+serialize json c#,TRUE
+c# compare objects,TRUE
+cs0029 c# cannot implicitly convert type 'system.eventhandler' to,FALSE
+specflow c#,TRUE
+c# compare string,TRUE
+xsd to c#,TRUE
+c# cryptography,TRUE
+c# explicit conversion,TRUE
+c# soap,TRUE
+c# yaml,TRUE
+html to pdf c#,FALSE
+key value pair c#,TRUE
+c# task.factory.startnew,TRUE
+c# obsolete,TRUE
+modulus operator c#,TRUE
+c# chr,TRUE
+c# newtonsoft json,TRUE
+c# coding language,TRUE
+gitignore c#,TRUE
+abstract class in c#,FALSE
+go vs c#,TRUE
+c# key value,TRUE
+c# jsonresult,TRUE
+named tuples c#,TRUE
+c# instantiate class,TRUE
+c# authorize attribute,TRUE
+c# string substitution,TRUE
+quick sort c#,TRUE
+c# console read input,TRUE
+2 dimensional array c#,TRUE
+c# make directory,TRUE
+c# new line in string,TRUE
+how to wait in c#,TRUE
+c# get file version,TRUE
+c# datetime string,TRUE
+c# getdate,TRUE
+c# array of array,TRUE
+c# xml deserialization,TRUE
+is c# open source,TRUE
+c# dynaic generic,TRUE
+c# server.mappath,TRUE
+c# web scraper,TRUE
+c# 2 dimension array,TRUE
+create guid c#,TRUE
+c# initialize list with values,TRUE
+c# convert byte[] to string,TRUE
+c# find string,TRUE
+ca2000 c# call system.idisposable.dispose on object created by before all references to it are out of scope.,TRUE
+c# get current working directory,TRUE
+c# password generator,TRUE
+c# copy folder,TRUE
+c# bool to string,TRUE
+c# string sort,TRUE
+c# string newline,TRUE
+jsonreader c#,TRUE
+c# stopwatch example,TRUE
+c# implements,TRUE
+c# case insensitive replace,FALSE
+c# swagger,TRUE
+windows form application c#,FALSE
+c# radio button,TRUE
+cs1069 c# the type name 'bitmap' could not be found in the namespace 'system.drawing'. this type has been forwarded to assembly consider adding a reference to that assembly.,FALSE
+serial port c#,TRUE
+c# shorthand if,TRUE
+c# rest,TRUE
+c# nullreferenceexception,TRUE
+begininvoke c#,TRUE
+messagepack c#,TRUE
+rethrow exception c#,TRUE
+hackerrank c#,TRUE
+c# uses,TRUE
+c# ??= operator,TRUE
+c# byte to char,TRUE
+c# object reference not set to an instance,FALSE
+web api tutorial c#,TRUE
+c# dictionary values to list,FALSE
+c# to lowercase,TRUE
+convert json to object c#,FALSE
+data structures c#,TRUE
+c# tutorial online,TRUE
+c# call one constructor from another,FALSE
+c# when to use struct,FALSE
+http client c#,TRUE
+c# task factory,TRUE
+task.continuewith c#,TRUE
+c# char to byte,FALSE
+cs8026 c# and asp.net feature 'interpolated strings' is not available in c# 5. please use language version 6 or greater.,FALSE
+&& c#,TRUE
+c# generic classes,TRUE
+c# url encoding,TRUE
+c# ssh,TRUE
+ihostedservice c#,TRUE
+c# http server,TRUE
+c# data types list,FALSE
+restsharp c#,TRUE
+c# \t,TRUE
+c# enum.tryparse,TRUE
+c# trycast,TRUE
+c# map function,TRUE
+c# getbytes,TRUE
+jarray c#,TRUE
+c# copy files,TRUE
+c# replace regex,TRUE
+c# circular buffer,TRUE
+object reference required for non-static c#,TRUE
+c# dictionary example code,TRUE
+reverse a string c#,TRUE
+c# printing,TRUE
+c# an object reference is required nonstatic,TRUE
+sort a list c#,TRUE
+c# parse date,TRUE
+maximum request length exceeded c#,TRUE
+c# deep copy object,TRUE
+return tuple c#,TRUE
+c# abstract vs interface,TRUE
+celcius to ferhente conversion in c#,TRUE
+c# string equality,TRUE
+c# stream to file,TRUE
+c# neural network,TRUE
+index was outside the bounds of the array c#,TRUE
+c# format decimal 2 places,TRUE
+c# sql server,TRUE
+c# carriage return newline,TRUE
+c# template string,TRUE
+using system c#,TRUE
+modulo c#,TRUE
+c# implicit cast,TRUE
+c# median,TRUE
+task parallel library c#,FALSE
+c# system,TRUE
+c# datetime utc,TRUE
+c# date add,TRUE
+c# in browser,TRUE
+c# file watcher,TRUE
+c# ai,TRUE
+c# radiobutton,TRUE
+bitwise operators c#,TRUE
+c# static initializer,TRUE
+for loops in c#,FALSE
+solid c#,TRUE
+file watcher c#,TRUE
+await in c#,TRUE
+c# worker service,TRUE
+c# json to class,FALSE
+c# accessor,TRUE
+c# iactionresult,TRUE
+c# httpclient postasync,TRUE
+mqtt c#,TRUE
+httpclientfactory c#,TRUE
+c# lazy async,TRUE
+c# memorystream to file,FALSE
+c# 7.2,TRUE
+virtual vs abstract c#,FALSE
+c# object pool,TRUE
+c# encryption and decryption,FALSE
+c# check null,TRUE
+c# simple using statement,FALSE
+c# vectors,TRUE
+c# *=,TRUE
+visual studio c# version,FALSE
+c# class types,TRUE
+default interface implementation c#,TRUE
+c# remove string from string,TRUE
+add element to array c#,TRUE
+c# run powershell script,TRUE
+c# generic methods,TRUE
+instantiate c#,TRUE
+split string in c#,TRUE
+convert byte to string c#,TRUE
+c# create tuple,TRUE
+c# shuffle array,TRUE
+c# string empty,TRUE
+c# split array,TRUE
+c# get type by name,TRUE
+c# format datetime string,TRUE
+c# open a file,TRUE
+c# binary search tree,TRUE
+string to decimal c#,TRUE
+c# convert byte to int,TRUE
+override equals c#,TRUE
+declare string array c#,TRUE
+c# read config file,TRUE
+c# ado.net,TRUE
+c# for next loop,TRUE
+c# find substring in string,TRUE
+c# convert to integer,TRUE
+redis c#,TRUE
+c# compress string,TRUE
+html.actionlink c#,TRUE
+c# enum attributes,TRUE
+c# extension class,TRUE
+keyvaultclient c#,TRUE
+c# containers,TRUE
+missing compiler required member c#,FALSE
+nested classes c#,TRUE
+cs1579 c# foreach statement cannot operate on variables of type 'object' because 'object' does not contain a public instance definition for 'getenumerator',FALSE
+compare two lists c#,FALSE
+c# cannot implicitly convert type,FALSE
+object in c#,TRUE
+c# dictionary orderby,TRUE
+c# null coalesce,TRUE
+what is a constructor in c#,FALSE
+while loops c#,TRUE
+c# class extension,TRUE
+c sharp equivalent crossword,FALSE
+c# in powershell,TRUE
+selectmany c#,TRUE
+hash set c#,TRUE
+c# regular expression match,TRUE
+json object c#,TRUE
+ca1051 c# do not declare visible instance fields,FALSE
+c# regex test,TRUE
+c# coding exercises,TRUE
+c# obfuscator,TRUE
+c# ^=,TRUE
+datareader c#,TRUE
+remote c# jobs,TRUE
+selenium with c#,TRUE
+c# parallel tasks,TRUE
+recursion c#,TRUE
+xpath c#,TRUE
+function in c#,TRUE
+string to int in c#,TRUE
+c# attributes example,TRUE
+c# convert list to observablecollection,TRUE
+c# parse command line arguments,TRUE
+array methods c#,TRUE
+c# write to excel,TRUE
+authorize attribute c#,TRUE
+c# rest api example,TRUE
+c# resize bitmap,TRUE
+c# documentation comments,TRUE
+c# session variables,TRUE
+c# gzipstream,TRUE
+array join c#,TRUE
+c# get day of week,TRUE
+c# generic enum,TRUE
+c# write csv,TRUE
+fluent api c#,TRUE
+c# string format $,TRUE
+c# string manipulation methods,TRUE
+c# array functions,TRUE
+c# pause thread,TRUE
+save file dialog c#,TRUE
+double to string c#,TRUE
+c# inotifypropertychanged example,TRUE
+c# httpclient post example,TRUE
+convert string to array c#,TRUE
+c# printline,TRUE
+c# get files in folder,TRUE
+c# int[],TRUE
+microsoft visual c# step by step,TRUE
+static methods c#,TRUE
+c# create new object,TRUE
+c# datetime.tostring format,TRUE
+c# list copy,TRUE
+igrouping c#,TRUE
+basics of c#,TRUE
+what is blazor c#,FALSE
+c# slice,TRUE
+dynamic object c#,TRUE
+c# linq first,TRUE
+lazy loading c#,TRUE
+anonymous types c#,TRUE
+c# nullable operator,TRUE
+c# post,TRUE
+cs0163 c# control cannot fall through from one case label ('case 1:') to another,FALSE
+list of tuples c#,FALSE
+c# select statement,TRUE
+cs0103 c# the name 'session' does not exist in the current context,FALSE
+c# ! operator,TRUE
+memory stream c#,TRUE
+c# debug output,TRUE
+learn c# for free,FALSE
+cs0016 c# could not write to output file,FALSE
+c# double format,TRUE
+c# checksum,TRUE
+c# odata,TRUE
+linq to dictionary c#,TRUE
+linked list in c#,TRUE
+c# date only,TRUE
+c# files,TRUE
+foreach parallel c#,TRUE
+jsonserializer.deserialize c#,TRUE
+cs7036 c# and asp.net there is no argument given that corresponds to the required formal parameter of,FALSE
+cs1929 c# 'iservicecollection' does not contain a definition for and the best extension method overload requires a receiver of type,FALSE
+c# http,TRUE
+c# filepath,TRUE
+what is a delegate in c#,FALSE
+c# windows forms,TRUE
+unity dictionary c#,TRUE
+datacontract c#,TRUE
+murach's c#,TRUE
+c# thread lock,TRUE
+jsonpatchdocument c#,TRUE
+c# data type,TRUE
+services.adddbcontext c#,TRUE
+c# date comparison,TRUE
+c# get property,TRUE
+c# kill process,TRUE
+c# string arrays,TRUE
+get set in c#,TRUE
+xml serialize c#,TRUE
+console log c#,TRUE
+c# excel interop,TRUE
+copy list c#,TRUE
+c# command pattern,TRUE
+c# references,TRUE
+c# static function,TRUE
+c# openfiledialog example,TRUE
+ref vs out c#,TRUE
+c# rename directory,TRUE
+c# enum as int,TRUE
+c# size of array,TRUE
+c# matrix math,TRUE
+c# append array,TRUE
+c# string escape character,TRUE
+sql connection string c#,TRUE
+c# datetime string formats,TRUE
+c# if string contains,TRUE
+anonymous function c#,TRUE
+variables in c#,TRUE
+c# get executing directory,TRUE
+c# raw string,TRUE
+c# decimal tostring format,TRUE
+c# encrypt,TRUE
+c# new byte array,TRUE
+copy file c#,TRUE
+c# reverse,TRUE
+clean architecture c#,TRUE
+byte array c#,TRUE
+new datetime c#,TRUE
+read xml c#,TRUE
+xml parser c#,TRUE
+c# date functions,TRUE
+c# namespace alias,TRUE
+cs0234 c# the type or namespace name 'ui' does not exist in the namespace 'unityengine' (are you missing an assembly reference?),FALSE
+cs0311 c# the type cannot be used as type parameter 'tuser' in the generic type or method 'identitydbcontext<tuser>'. there is no implicit reference conversion from to.,FALSE
+cs1525 c# invalid expression term 'decimal',FALSE
+thread was being aborted c#,TRUE
+c# tensorflow,TRUE
+c# datetimeoffset to datetime,FALSE
+c# computer name,TRUE
+c# toint,TRUE
+cs8506 c# no best type was found for the switch expression.,FALSE
+cs1624 c# the body of cannot be an iterator block because is not an iterator interface type,FALSE
+c# linq order by,TRUE
+json to xml c#,FALSE
+structs in c#,TRUE
+xunit tutorial c#,TRUE
+async and await c#,FALSE
+could not load type from assembly c#,FALSE
+c# datetime formatting,TRUE
+c# task run async,FALSE
+c# task queue,TRUE
+cs1729 c# 'vector3' does not contain a constructor that takes 1 arguments,FALSE
+c# xamarin,TRUE
+c# file write,TRUE
+class vs struct c#,FALSE
+cs0234 c# and asp.net mvc 4.0 the type or namespace name 'linq' does not exist in the namespace 'system' (are you missing an assembly reference?),FALSE
+c# ioptions,TRUE
+c# record,TRUE
+c# nunit,TRUE
+cs1061 c# 'object' does not contain a definition for 'add' and no accessible extension method 'add' accepting a first argument of type 'object' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# 7 switch,TRUE
+singleton class c#,TRUE
+c# adapter pattern,TRUE
+c# datatype,TRUE
+type casting c#,TRUE
+cs0234 c# the type or namespace name does not exist in the namespace 'xamarin' (are you missing an assembly reference?),FALSE
+install c#,TRUE
+c# union type,TRUE
+c# property default,TRUE
+c# coalesce null,TRUE
+if and c#,TRUE
+c# math random,TRUE
+sqldatareader c# example,TRUE
+c# open source,TRUE
+c# an object reference is required,TRUE
+c# subtract dates,TRUE
+c# initialize class,TRUE
+c# list array,TRUE
+c# get directory name,TRUE
+object reference c#,TRUE
+c# order list,TRUE
+vb.net to c# convert,TRUE
+c# dependency injection example,TRUE
+c# web api example,TRUE
+c# check if a file exists,TRUE
+c# array add item,TRUE
+free c# course,TRUE
+c# create new array,TRUE
+enum tostring c#,TRUE
+c# dictionary methods,TRUE
+c# get name of current method,TRUE
+relative path c#,TRUE
+iformfile c#,TRUE
+c# indexof string,TRUE
+anonymous method c#,TRUE
+c# static interface method,TRUE
+c# configurationmanager example,TRUE
+c# sql transaction,TRUE
+c# init array,TRUE
+add item to array c#,TRUE
+c# concurrent collections,TRUE
+c# conditional attribute,TRUE
+convert string to bytes c#,TRUE
+c# parse xml file,TRUE
+c sharp enum,TRUE
+c# serialize xml,TRUE
+c# timespan format string,TRUE
+c sharp substring,TRUE
+c# drag and drop,TRUE
+c# inherit class,TRUE
+c# date math,TRUE
+c# using streamreader,TRUE
+c# formatted string,TRUE
+create nuget package c#,TRUE
+message box in c#,TRUE
+c# enum flag,TRUE
+c# manual,TRUE
+c# variable scope,TRUE
+add to dictionary c#,TRUE
+what is a namespace c#,FALSE
+c# model,TRUE
+unable to resolve service for type c#,FALSE
+c# regex groups,TRUE
+cs0308 c# the non-generic method 'iserviceprovider.getservice(type)' cannot be used with type arguments,FALSE
+=> in c# class,FALSE
+! in c#,TRUE
+decompile c#,TRUE
+c# webbrowser control,TRUE
+c# value type,TRUE
+c# mappath,TRUE
+inaccessible due to protection level c#,FALSE
+exceptions c#,TRUE
+treeview c#,TRUE
+c# emulator,TRUE
+c# oauth2,TRUE
+using linq c#,TRUE
+antlr c#,TRUE
+c# 8 range,TRUE
+c# list max,TRUE
+c# vs visual basic,FALSE
+cs0030 c# cannot convert type 'string' to 'int',FALSE
+cs0266 c# cannot implicitly convert type 'int' to 'short'. an explicit conversion exists (are you missing a cast?),FALSE
+c# nlog,TRUE
+cs0029 c# cannot implicitly convert type 'string' to 'system.uri',FALSE
+udpclient c#,TRUE
+microsoft c# training,TRUE
+c# list search,TRUE
+c# decimal.tryparse,TRUE
+c# obsolete attribute,TRUE
+catch exception c#,TRUE
+c# public static,TRUE
+messagebox in c#,TRUE
+microsoft.csharp,TRUE
+rs1024 c# compare symbols correctly,FALSE
+c# soundplayer,TRUE
+cs1061 c# 'httprequestmessage' does not contain a definition for and no accessible extension method accepting a first argument of type 'httprequestmessage' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# null operators,TRUE
+c# cast operator,TRUE
+c# xml to class,FALSE
+c# async foreach,TRUE
+c# arduino,TRUE
+c# udp client,TRUE
+inaccessible due to its protection level c#,FALSE
+c# write line to file,TRUE
+c# code formatter,TRUE
+c# forum,TRUE
+c# http get request,TRUE
+iqueryable vs ienumerable c#,TRUE
+run c# code,TRUE
+c# declare byte array,TRUE
+c# enum examples,TRUE
+c# initialize byte array,TRUE
+c# reflection get properties,TRUE
+c# unicode,TRUE
+c# string format examples,TRUE
+c# bit array,TRUE
+c# sql server connection string,TRUE
+c# eventhandler example,TRUE
+stringformat c#,TRUE
+binary search tree c#,TRUE
+microsoft interview questions c#,TRUE
+convert vb6 to c#,TRUE
+mysql connection string c#,TRUE
+c# leftstring,TRUE
+apicontroller c#,TRUE
+c# unescape string,TRUE
+how to generate a random number in c#,TRUE
+possible multiple enumeration c#,TRUE
+c# byte array to hex,TRUE
+list of strings c#,TRUE
+c# encode string,TRUE
+c# session,TRUE
+cs1656 c# cannot assign to 'writeline' because it is a 'method group',FALSE
+c# ip address,TRUE
+do while in c#,FALSE
+c# xml linq,TRUE
+cs1503 c# argument 2: cannot convert from 'bool' to,FALSE
+c# editor online,TRUE
+csharp to vb,TRUE
+exception handling in c#,FALSE
+c# backgroundservice,TRUE
+c# stack trace,TRUE
+cs1685 c# the predefined type is defined in multiple assemblies in the global alias; using definition from,FALSE
+new keyword c#,TRUE
+c# reduce,TRUE
+c# dictionary indexer,TRUE
+c# configuration file,TRUE
+c# constructor overload,TRUE
+abstract factory pattern c#,FALSE
+c# threadlocal,TRUE
+httpclient post c#,TRUE
+operator in c#,TRUE
+c# coding online,TRUE
+c# utc time,TRUE
+c# constructor initializer,TRUE
+cs0433 c# the type 'mysqlconnection' exists in both and,FALSE
+c# android,TRUE
+visual studio 2017 community download c#,FALSE
+c# serializable attribute,TRUE
+c# wpf timer,TRUE
+c# using streamwriter,TRUE
+c# jsonconvert.deserializeobject,TRUE
+c# chart control,TRUE
+cs1061 c# 'string' does not contain a definition for and no extension method accepting a first argument of type 'string' could be found (are you missing a using directive or an assembly reference?),FALSE
+cs0266 c# cannot implicitly convert type 'int' to 'ushort'. an explicit conversion exists (are you missing a cast?),FALSE
+c# online course,TRUE
+ordered dictionary c#,TRUE
+cs1002 c# expected,FALSE
+c# nested classes,TRUE
+nullable int c#,TRUE
+c# suppress warning,TRUE
+generate random string c#,TRUE
+c# math methods,TRUE
+c# enumerate dictionary,TRUE
+c# write xml file,TRUE
+request.servervariables c#,TRUE
+c# return value,TRUE
+c# virtual methods,TRUE
+c# iasyncenumerable,TRUE
+c# variable parameters,TRUE
+convert int to double c#,TRUE
+c# write binary file,TRUE
+c# create task,TRUE
+remove characters from string c#,TRUE
+convert double to float c#,TRUE
+c# linq to sql,TRUE
+c# fluent api,TRUE
+c# get length of array,TRUE
+c# sqllite,TRUE
+write text file c#,TRUE
+convert string to char array c#,TRUE
+c# convert string to hex,TRUE
+string list c#,TRUE
+read excel c#,TRUE
+c# import csv,TRUE
+c# bulk insert,TRUE
+c# return type,TRUE
+c# httpclient basic authentication,TRUE
+c# check file exists,TRUE
+c# shuffle,TRUE
+c# get todays date,TRUE
+"c# escape """,TRUE
+moq documentation c#,TRUE
+datacontractjsonserializer example c#,TRUE
+array vs list c#,TRUE
+c# httpclientfactory,TRUE
+c# abstraction,TRUE
+c# percentage,TRUE
+c# compare date,TRUE
+c# image resize,TRUE
+hash c#,TRUE
+sbyte c#,TRUE
+lambda in c#,TRUE
+c# custom events,TRUE
+visual basic to c# converter,FALSE
+c# certificate,TRUE
+c# enable nullable reference types,FALSE
+c# datetime.now format,TRUE
+c# time difference,TRUE
+c# installer,TRUE
+xml reader c#,TRUE
+c# langversion,TRUE
+c# trie,TRUE
+c# frombody,TRUE
+cs1583 c# error reading win32 resources -- image is too small.,FALSE
+visual c# tutorial,TRUE
+system.stackoverflowexception in c#,TRUE
+oops concept c#,TRUE
+linq any c#,TRUE
+c# list any,TRUE
+c# object is null,FALSE
+c# move file to another directory,FALSE
+c# whenall,TRUE
+parsing json c#,TRUE
+what is the latest version of c#,FALSE
+c# tokenizer,TRUE
+foreach list c#,TRUE
+bool? c#,TRUE
+usermanager c#,TRUE
+c# |= operator,TRUE
+== c#,TRUE
+discord c#,TRUE
+date time c#,TRUE
+c# rand,TRUE
+c# events tutorial,TRUE
+c# mqtt,TRUE
+coalesce c#,TRUE
+c# events and delegates,FALSE
+main method c#,TRUE
+c# date without time,TRUE
+c# get; set;,TRUE
+create json string c#,TRUE
+remove duplicates from list c#,TRUE
+c# using sqlconnection,TRUE
+c# variable declaration,TRUE
+method in c#,TRUE
+c# create new guid,TRUE
+concurrent dictionaries c#,TRUE
+c# parameterized query,TRUE
+c# multi dimension array,TRUE
+c# create a class,TRUE
+c# file open dialog,TRUE
+c# convert object to type,TRUE
+c# introduction,TRUE
+c# save file dialog,TRUE
+how to run c# code,TRUE
+httpclient c# example,TRUE
+relaycommand c#,TRUE
+c# send email example,TRUE
+c# delete directory and all files,TRUE
+c# async methods,TRUE
+c# open folder dialog,TRUE
+c# string to xml,TRUE
+c# nested function,TRUE
+run powershell from c#,TRUE
+c# hex string to int,TRUE
+array of objects c#,TRUE
+datetime format string c#,TRUE
+c# rngcryptoserviceprovider,TRUE
+c# type cast,TRUE
+c# convert integer to string,TRUE
+mediatr c#,TRUE
+^ operator c#,TRUE
+intellij c#,TRUE
+c# cms,TRUE
+linq syntax c#,TRUE
+c# ocr library,TRUE
+c# vulkan,TRUE
+c# disposable,TRUE
+single responsibility principle c#,FALSE
+c# await foreach,TRUE
+heap data structure c#,FALSE
+and or c#,TRUE
+c# 9 records,TRUE
+const vs readonly c#,FALSE
+c# wpf listview,TRUE
+abstract vs virtual c#,FALSE
+c# bool.parse,TRUE
+linq where clause c#,FALSE
+entity framework tutorial c#,FALSE
+what is a constructor c#,FALSE
+the packages element is not declared c#,FALSE
+c# case insensitive dictionary,FALSE
+unity dependency injection c#,FALSE
+c# json serialize object,FALSE
+c# difference between dates,FALSE
+linq contains c#,TRUE
+c# greater than,TRUE
+c# in visual studio,FALSE
+c# | operator,TRUE
+cs0019 c# operator '==' cannot be applied to operands of type 't' and 't',FALSE
+history of c#,TRUE
+where to learn c#,FALSE
+c# inheritance constructor,TRUE
+c# atomic,TRUE
+datediff in c#,TRUE
+private class c#,TRUE
+nlog c#,TRUE
+c# shared project,TRUE
+what is ?? in c#,FALSE
+cs0234 c# the type or namespace name 'teamfoundation' does not exist in the namespace 'microsoft' (are you missing an assembly reference?),FALSE
+visitor pattern c#,TRUE
+c# httppost,TRUE
+visual studio 2017 download c#,FALSE
+cs8059 c# feature is not available in c# 6. please use language version {1} or greater.,FALSE
+cs0029 c# cannot implicitly convert type to 'unityengine.vector3',FALSE
+cs1061 c# 'htmlhelper<dynamic>' does not contain a definition for 'kendo' and no accessible extension method 'kendo' accepting a first argument of type 'htmlhelper<dynamic>' could be found (are you missing a using directive or an assembly reference?),FALSE
+selectlist c#,TRUE
+c# ipc,TRUE
+c# coroutines,TRUE
+c# jtoken,TRUE
+how to run c#,FALSE
+c# composition,TRUE
+do until c#,TRUE
+c# create custom exception,FALSE
+logging in c#,TRUE
+c# datetime range,TRUE
+priority queue in c#,FALSE
+c# for kids,TRUE
+parallel foreach in c#,TRUE
+xml comments c#,TRUE
+c# call web service,TRUE
+c# connect to sql,TRUE
+c# ctor,TRUE
+c# create list of objects,TRUE
+c# background thread,TRUE
+c# string.reverse,TRUE
+initialize an array c#,TRUE
+convert string to byte c#,TRUE
+c# reference variable,TRUE
+command pattern c#,TRUE
+c# linq select multiple fields,TRUE
+c# certification 2020,TRUE
+random string c#,TRUE
+c# string template,TRUE
+c# file to byte array,TRUE
+enum class c#,TRUE
+c# find value in list,TRUE
+c# string in list,TRUE
+math.random c#,TRUE
+c# datetime tryparseexact,TRUE
+csv parser c#,TRUE
+create folder in c#,TRUE
+exit foreach loop c#,TRUE
+c# generic constraint,TRUE
+c# big int,TRUE
+c# async event,TRUE
+restful api c#,TRUE
+c# find text in string,TRUE
+c# switch on string,TRUE
+c# connect to mysql,TRUE
+c# passing by reference,TRUE
+c# string date format,TRUE
+technical interview questions c#,TRUE
+c# send email with attachment,TRUE
+c# datetime.now.tostring,TRUE
+c# return list,TRUE
+c# convert html to pdf,TRUE
+c# enum get value by string,TRUE
+c# read excel file xlsx,TRUE
+reverse a string in c#,TRUE
+c# programming examples,TRUE
+c# new switch syntax,TRUE
+c# sql command,TRUE
+c# list examples,TRUE
+c# linq intersect,TRUE
+c# background task,TRUE
+c# get filename,TRUE
+c# string encoding,TRUE
+interface vs abstract class c#,TRUE
+c# streamreader example,TRUE
+c# define list,TRUE
+c# httpclient get,TRUE
+c# iterate through array,TRUE
+c# windows service example,TRUE
+enable c# 8 visual studio 2019,TRUE
+c# datagridview sort,TRUE
+c# ffmpeg,TRUE
+c# dataframe,TRUE
+c# create class,TRUE
+checkbox c#,TRUE
+cs0263 c# partial declarations of 'app' must not specify different base classes,FALSE
+c# property lambda,TRUE
+cs0103 c# and asp.net mvc 3.0 the name 'model' does not exist in the current context,FALSE
+% c#,TRUE
+c# vbcrlf,TRUE
+list join c#,TRUE
+c# rabbitmq,TRUE
+discord bot c#,TRUE
+list foreach c#,TRUE
+heap in c#,TRUE
+c# tupple,TRUE
+csharp to vb converter,FALSE
+c# socket programming,TRUE
+c# sftp client,TRUE
+linq select distinct c#,FALSE
+c# gcd,TRUE
+cs0012 c# and asp.net the type 'object' is defined in an assembly that is not referenced. you must add a reference to assembly.,FALSE
+c# character,TRUE
+c# vs vb,TRUE
+c# ? null,TRUE
+jsonproperty attribute c#,TRUE
+c# multimap,TRUE
+c# channel,TRUE
+c# design pattern,TRUE
+cs1061 c# 'app' does not contain a definition for 'initializecomponent' and no accessible extension method 'initializecomponent' accepting a first argument of type 'app' could be found (are you missing a using directive or an assembly reference?),FALSE
+electron c#,TRUE
+|| c#,TRUE
+c# list to observablecollection,FALSE
+c# 8 switch statement,FALSE
+c# actions,TRUE
+c# xunit,TRUE
+c# annotation,TRUE
+compare string c#,TRUE
+constructor chaining c#,TRUE
+c# keypress,TRUE
+c# string formats,TRUE
+c# read ini file,TRUE
+c# string left substring,TRUE
+c# com interop,TRUE
+c# generic return type,TRUE
+c# quote in string,TRUE
+c# session variable,TRUE
+c# int types,TRUE
+resize array c#,TRUE
+c# read pdf,TRUE
+c# exit foreach early,TRUE
+c# deserialize xml string,TRUE
+convert string to stream c#,TRUE
+blocking collection c#,TRUE
+c# variable naming convention,TRUE
+c# string slice,TRUE
+c# pause for 5 seconds,TRUE
+c# combobox add item,TRUE
+division in c#,TRUE
+c# validation,TRUE
+c# initialize tuple,TRUE
+c# split a string,TRUE
+c# $ string format,TRUE
+c# array string,TRUE
+c# docker,TRUE
+dependency injection c# example,TRUE
+c# add object to list,TRUE
+c# reflection create instance,TRUE
+how to call a function in c#,TRUE
+c# code generation,TRUE
+c# unicode string,TRUE
+web api security c#,TRUE
+c# write to excel file,TRUE
+c# create xml,TRUE
+c# enum extension,TRUE
+c# create enum,TRUE
+unsigned int c#,TRUE
+asp.net interview questions c#,TRUE
+c# json example,TRUE
+time c#,TRUE
+c# convert string to int32,TRUE
+interpolated string c#,TRUE
+c# array remove item,TRUE
+c# nuget,TRUE
+c# inline method,TRUE
+c# sort an array,TRUE
+using sqlconnection c#,TRUE
+c# bool tostring,TRUE
+initialize 2d array c#,TRUE
+c# gpu,TRUE
+c# wasm,TRUE
+c# webserver,TRUE
+c# async await tutorial,FALSE
+msmq c#,TRUE
+c# compare arrays,TRUE
+c# constructor syntax,TRUE
+wpf tutorial c#,TRUE
+linq to xml c#,FALSE
+encapsulation in c#,TRUE
+stylecop c#,TRUE
+json 2 csharp,TRUE
+c# string compare case insensitive,FALSE
+c# const vs static,FALSE
+c# metadata file could not be found,FALSE
+c# caching,TRUE
+c# appsettings.json,TRUE
+c# combo box,TRUE
+mailkit c#,TRUE
+exceptions in c#,TRUE
+loop in c#,TRUE
+c sharp constructor,TRUE
+c# thread safe,TRUE
+cs1069 c# the type name 'registrykey' could not be found in the namespace. this type has been forwarded to assembly consider adding a reference to that assembly.,TRUE
+c# using dispose,TRUE
+valuetask c#,TRUE
+cs0826 c# no best type found for implicitly-typed array,FALSE
+c# combobox selectedvalue,TRUE
+xmlserializer deserialize c#,TRUE
+c# tuple list,TRUE
+c# list of tuple,FALSE
+c# dictionary tutorial,TRUE
+c# reserved words,TRUE
+protected vs private c#,FALSE
+c# namespaces explained,TRUE
+c# charts,TRUE
+c# orderbydescending,TRUE
+graphserviceclient c#,TRUE
+c# switch case else,FALSE
+c# kafka,TRUE
+c# coding standard,TRUE
+linq sort c#,TRUE
+stack vs heap c#,TRUE
+c# authenticationheadervalue,TRUE
+ternary operator in c#,FALSE
+c# web framework,TRUE
+c# list groupby,TRUE
+bitwise operator c#,TRUE
+using declaration c#,TRUE
+c# apicontroller,TRUE
+convert string to datetime in c#,TRUE
+c# sql stored procedure,TRUE
+c# what is an interface,TRUE
+c# properties get set,TRUE
+c# foreach file in folder,TRUE
+stringbuffer c#,TRUE
+random numbers c#,TRUE
+c# code coverage,TRUE
+c# run async method synchronously,TRUE
+c# change file extension,TRUE
+c# function as parameter,TRUE
+c# generic extension method,TRUE
+c# multiline textbox,TRUE
+add to string array c#,TRUE
+c# constructor example,TRUE
+c# indexed property,TRUE
+c# timespan to string,TRUE
+ienumerable vs iqueryable c#,TRUE
+c# list initialize,TRUE
+get file name from path c#,TRUE
+remove character from string c#,TRUE
+c# get name of calling method,TRUE
+c# socket example,TRUE
+c# copy a list,TRUE
+c# string regex,TRUE
+operator overload c#,TRUE
+c# get type from name,TRUE
+c# string replacement,TRUE
+c# string to byte array linq,TRUE
+c# stringbuffer,TRUE
+c# array of object,TRUE
+c# create xml file,TRUE
+c# write list to file,TRUE
+c# countdown timer,TRUE
+c# initialize object,TRUE
+c# array constructor,TRUE
+c# string to string array,TRUE
+pdf c#,TRUE
+c# initialize property,TRUE
+c# code sample,TRUE
+showdialog c#,TRUE
+c# tostring method,TRUE
+c# add days to date,TRUE
+c# regex replace pattern,TRUE
+c# environment variables,TRUE
+timestamp c#,TRUE
+run powershell script from c#,TRUE
+cs1061 c# and asp.net does not contain a definition for 'context' and no extension method 'context' accepting a first argument of type could be found (are you missing a using directive or an assembly reference?),FALSE
+datetime difference c#,TRUE
+c# concurrentlist,TRUE
+there is already an open datareader c#,FALSE
+c# dictionary vs list,FALSE
+c sharp certification,TRUE
+static class constructor c#,FALSE
+c# task sleep,TRUE
+c# foreach datarow,TRUE
+c# stack vs heap,TRUE
+catch when c#,TRUE
+json to csv c#,FALSE
+typedef c#,TRUE
+c# regex capture,TRUE
+cs0570 c# is not supported by the language,FALSE
+c# date time formats,FALSE
+c# remainder %,TRUE
+facade pattern c#,TRUE
+jwt c#,TRUE
+nullable types c#,TRUE
+c# linq distinctby,TRUE
+c# double range,TRUE
+moq tutorial c#,TRUE
+c# cuda,TRUE
+c# special characters,TRUE
+install windows service c#,FALSE
+c# design patterns list,FALSE
+current date in c#,FALSE
+c# user control,TRUE
+c# nullable boolean,TRUE
+c# bluetooth,TRUE
+c# localization,TRUE
+guid in c#,TRUE
+uwp tutorial c#,TRUE
+c# callback example,TRUE
+c# count character in string,TRUE
+c# capitalize first letter of string,TRUE
+sort an array c#,TRUE
+c# string operators,TRUE
+c# animation,TRUE
+c# add item to ienumerable,TRUE
+c# validate phone number,TRUE
+c# xmltextreader,TRUE
+c# ldap,TRUE
+wcf interview questions c#,TRUE
+c# write to a text file,TRUE
+c# export to csv,TRUE
+c# httpclient getasync,TRUE
+c# integer array,TRUE
+c# byte array to base64 string,TRUE
+raise event c#,TRUE
+using streamreader c#,TRUE
+c# foreach reverse order,TRUE
+enum flags c#,TRUE
+c# string format datetime,TRUE
+2d arrays c#,TRUE
+file path c#,TRUE
+c# array to dictionary,TRUE
+c# get attribute value,TRUE
+static interface c#,TRUE
+c# using regex,TRUE
+hmacsha256 c#,TRUE
+c# remove spaces,TRUE
+c# create new thread,TRUE
+c# create interface,TRUE
+player movement c#,TRUE
+c# multi dimensional arrays,TRUE
+c# foreach ienumerable,TRUE
+c# json array example,TRUE
+c# splash screen,TRUE
+c# guid format,TRUE
+c to c#,TRUE
+swift vs c#,TRUE
+keyvault c#,TRUE
+c# nlp,TRUE
+c# object to dictionary,FALSE
+inputbox c#,TRUE
+json to c# model,FALSE
+cs1061 c# 'htmlhelper' does not contain a definition for 'partial' and no accessible extension method 'partial' accepting a first argument of type 'htmlhelper' could be found (are you missing a using directive or an assembly reference?),FALSE
+cs1061 c# 'htmlhelper' does not contain a definition for 'beginform' and no accessible extension method 'beginform' accepting a first argument of type 'htmlhelper' could be found (are you missing a using directive or an assembly reference?),FALSE
+c# webrtc,TRUE
+compare dates c#,TRUE
+c# speech recognition,TRUE
+c# datepicker,TRUE
+c# channels,TRUE
+c# challenges,TRUE
+c# async configureawait,TRUE
+cs1929 c# does not contain a definition for 'contains' and the best extension method overload requires a receiver of type,FALSE
+c# one line if statement,FALSE
+how to compare strings in c#,FALSE
+c# math mod,TRUE
+c# serial communication,TRUE
+c sharp data types,FALSE
+waitforseconds c#,TRUE
+serializable attribute c#,TRUE
+c# option type,TRUE
+c# readallbytes,TRUE
+c# to vb.net converter online,FALSE
+c# encryption decryption,TRUE
+c# math operators,TRUE
+php vs c#,TRUE
+c# listitem,TRUE
+design pattern c#,TRUE
+cs0122 c# 'resources' is inaccessible due to its protection level,FALSE
+c# datetime type,TRUE
+c# class within class,FALSE
+padding is invalid and cannot be removed c#,FALSE
+cs1501 c# no overload for method 'tostring' takes 2 arguments,FALSE
+current date c#,TRUE
+datetime default value c#,FALSE
+c# empty character literal,FALSE
+c# linq to xml,FALSE
+specification pattern c#,TRUE
+c# nullable struct,TRUE
+c# fixed length string,TRUE
+c# notnull,TRUE
+c# is inaccessible due to protection level,FALSE
+c# list aggregate,TRUE
+tesseract c#,TRUE
+wpf timer c#,TRUE
+printdocument c#,TRUE
+c# get file length,TRUE
+c# func example,TRUE
+c# find duplicates in list,TRUE
+gdscript vs c#,TRUE
+c# matrix multiplication,TRUE
+c# dataset example,TRUE
+string append c#,TRUE
+c# redis cache,TRUE
+c# get directory,TRUE
+c# long size,TRUE
+mongo c#,TRUE
+c# httpclient getasync example,TRUE
+sqllite c#,TRUE
+c# int to decimal,TRUE
+c# insertion sort,TRUE
+dictionary c# example,TRUE
+c# parse text file,TRUE
+c# substr,TRUE
+c# read csv data,TRUE
+c# tostring format date,TRUE
+c# interface implementation,TRUE
+c# rest api client,TRUE
+sql in c#,TRUE
+implement interface c#,TRUE
+c# string charat,TRUE
+c# delegate function,TRUE
+c# format floating point number,TRUE
+c# decode html,TRUE
+breadth first search c#,TRUE
+convert c# to powershell,TRUE
+ado.net c#,TRUE
+c# parse string to datetime,TRUE
+async methods c#,TRUE
+c# appsettings example,TRUE
+c# write a text file,TRUE
+c# variable naming conventions,TRUE
+c# add row to datagridview,TRUE
+c# folderbrowserdialog example,TRUE
+declare variable c#,TRUE
+c# parse enum,TRUE
+c# pause wait,TRUE
+read xml file in c#,TRUE
+convert string to date in c#,TRUE
+c# sql bulk insert,TRUE
+c# fibonacci sequence,TRUE
+c# multiple base classes,TRUE
+c# string pad,TRUE
+c# alert box,TRUE
+current c# version,TRUE
+cs0400 c# the type or namespace name 'system' could not be found in the global namespace (are you missing an assembly reference?),FALSE
+null operator c#,TRUE
+cs0126 c# an object of a type convertible to is required,FALSE
+upgrade to c# 8,FALSE
+c# snmp,TRUE
+hides inherited member c#,FALSE
+xor in c#,TRUE
+ioc container c#,TRUE
+dispatcher c#,TRUE
+dictionaries in c#,TRUE
+windows forms c#,TRUE
+radio button c#,TRUE
+c# multiple constructors,TRUE
+c# textstream,TRUE
+c# programmer salary,TRUE
+class inheritance c#,TRUE
+c# razor syntax,TRUE
+learn c# online free,FALSE
+first or default c#,TRUE
+response.write c#,TRUE
+c# lambda tutorial,TRUE
+typecasting c#,TRUE
+wcf tutorial c#,TRUE
+c# await vs wait,FALSE
+linq union c#,TRUE
+c# on raspberry pi,FALSE
+c# list of exceptions,FALSE
+learn c# with unity,FALSE
+ioc containers c#,TRUE
+pgp encryption c#,TRUE
+translate c# to vb,FALSE
+c# pdf reader,TRUE
+c# language versions,TRUE
+c sharp online compiler,FALSE
+c# transaction,TRUE
+c# .net tutorial,TRUE
+jupyter c#,TRUE
+c# with equivalent,TRUE
+worker service c#,TRUE
+json serialize c#,TRUE
+foreach index c#,TRUE
+c# public void,TRUE
+learn to code in c#,FALSE
+c# out var,TRUE
+c# struct equality,TRUE
+c# listnode,TRUE
+c# task timeout,TRUE
+javascript to c# converter,FALSE
+c# => in variable declaration,TRUE
+c# calculator code,TRUE
+c# shellexecute,TRUE
+c# rename folder,TRUE
+connect to sql server c#,TRUE
+c# create log file,TRUE
+c# enum as string,TRUE
+c# screenshot,TRUE
+c# sqlite example,TRUE
+c# interactive window,TRUE
+convert long to string c#,TRUE
+c# convert string to enum value,TRUE
+c# add char to string,TRUE
+c# return two values,TRUE
+htmlagilitypack c# example,TRUE
+reverse string in c#,TRUE
+c# read string from file,TRUE
+c# sorting algorithms,TRUE
+append to array c#,TRUE
+c# lambda expression example,TRUE
+c# rest api call,TRUE
+write text to file c#,TRUE
+c# convert text to int,TRUE
+c# get elapsed time,TRUE
+c# int to string format,TRUE
+join c#,TRUE
+c# array properties,TRUE
+c# postasjsonasync,TRUE
+c# new timespan,TRUE
+c# get connection string from config,TRUE
+c# by reference,TRUE
+deep copy c#,TRUE
+c# samples,TRUE
+c# internal interface,TRUE
+c# basics for beginners,TRUE
+c# array initialize,TRUE
+c# create jwt token,TRUE
+c# getters setters,TRUE
+c# class methods,TRUE
+c# webhook example,TRUE
+c# refit,TRUE
+c# async example,TRUE
+c# array index,TRUE
+get and set in c#,TRUE
+c# named pipes,TRUE
+t4 template c#,TRUE
+loop c#,TRUE
+currency format c#,TRUE
+c# contract,TRUE
+c# check for null object,FALSE
+rounding in c#,TRUE
+publickeytoken c#,TRUE
+c# fluent,TRUE
+appdomain c#,TRUE
+c# when to use static,FALSE
+random number generator in c#,FALSE
+do loop c#,TRUE
+c# abstract base class,FALSE
+c# lua,TRUE
+c# if statement shorthand,FALSE
+c# app.config appsettings,TRUE
+nullable annotation c#,TRUE
+c# 7 tuple,TRUE
+c# json class,TRUE
+static void main c#,FALSE
+c# linq distinct list,FALSE
+sa1633 c# the file header is missing or not located at the top of the file.,FALSE
+cqrs pattern c#,TRUE
+c# visitor pattern,TRUE
+vb6 to c# converter,FALSE
+c# conditional compilation symbols,FALSE
+palindrome c#,TRUE
+feature 'default literal' is not available in c# 7.0. please use language version 7.1 or greater,FALSE
+switch expressions c#,TRUE
+c# list tuple,TRUE
+c# wpf mvvm,TRUE
+default parameter c#,TRUE
+.net design patterns c#,FALSE
+dependencyproperty c#,TRUE
+readonly vs const c#,FALSE
+c# class within a class,FALSE
+c# mailkit,TRUE
+c# constructor base,TRUE
+newline in c#,TRUE
+c# automatic properties,TRUE
+c# datagridview tutorial,TRUE
+c# udp broadcast,TRUE
+c# class members,TRUE
+c# throw custom exception,FALSE
+c# spinwait,TRUE
+c# padleft 0,TRUE
+new task c#,TRUE
+c# scheduler,TRUE
+attributes in c#,TRUE
+c# date datatype,TRUE
+tokenvalidationparameters c#,TRUE
+sendasync c#,TRUE
+c# bitset,TRUE
+c# datetime nullable,TRUE
+c# task cancel,TRUE
+c# single line if statement,TRUE
+c# game code,TRUE
+wpf interview questions c#,TRUE
+c# ascii code,TRUE
+c# create scheduled task,TRUE
+c# enum declaration,TRUE
+sql bulk insert c#,TRUE
+c sharp arrays,TRUE
+c# get system time,TRUE
+c# hash function,TRUE
+html.dropdownlist c#,TRUE
+c# create new file,TRUE
+c# double to string format,TRUE
+c# xmlreader example,TRUE
+c# .net interview questions,TRUE
+c# string tryparse,TRUE
+c# enumerate,TRUE
+linq groupby examples c#,TRUE
+c# html encode string,TRUE
+multi dimensional array c#,TRUE
+cancel task c#,TRUE
+c# add items to array,TRUE
+c# convert to byte array,TRUE
+c# declare and initialize array,TRUE
+datetime string format c#,TRUE
+insertion sort c#,TRUE
+depth first search c#,TRUE
+c# generator,TRUE
+microsoft.csharp.runtimebinder.csharpargumentinfo.create,TRUE
+c# switch default case,TRUE
+c# send post request,TRUE
+zip c#,TRUE
+c# expando object,TRUE
+tcp server c#,TRUE
+c# find char in string,TRUE
+c# convert decimal to string,TRUE
+c# generic type constraints,TRUE
+how to get user input in c#,TRUE
+c# subtract datetime,TRUE
+session variable c#,TRUE
+split function in c#,TRUE
+c# play mp3,TRUE
+c# call async method,TRUE
+c# recursive functions,TRUE
+c# get name of enum,TRUE
+c# create event handler,TRUE
+itext 7 c# examples,TRUE
+c# create windows service,TRUE
+microsoft.codeanalysis.csharp.scripting,TRUE
+remove duplicates c# list,TRUE
+extend class c#,TRUE
+c# unary operator,TRUE
+c# exception list,TRUE
+c# destructors,TRUE
+c# in out,TRUE
+c# discriminated union,TRUE
+dictionary object c#,TRUE
+c# data structures and algorithms pdf,FALSE
+c# if and or,FALSE
+byte[] c#,TRUE
+cross-thread operation not valid c#,FALSE
+c# touppercase,TRUE
+cs0117 c# 'task' does not contain a definition for,FALSE
+c# thread vs task,FALSE
+c# newtonsoft deserialize,TRUE
+string is null or empty c#,TRUE
+c# datetime to milliseconds,FALSE
+c# imagelist,TRUE
+c# not in,TRUE
+c# datetime from ticks,TRUE
+c# <=,TRUE
+c# rpc,TRUE
+liskov substitution principle c#,FALSE
+c# streamcontent,TRUE
+linq expressions c#,TRUE
+asynchronous programming in c#,FALSE
+what does ++ mean in c#,FALSE
+c# csvwriter,TRUE
+cs0012 c# the type 'system.object' is defined in an assembly that is not referenced. you must add a reference to assembly.,FALSE
+c# oops concept,TRUE
+cs1501 c# no overload for method 'read' takes 1 arguments,FALSE
+c# worker thread,TRUE
+c# 8.0 in a nutshell pdf,FALSE
+c# javascript,TRUE
+cs0117 c# 'scenemanager' does not contain a definition for,FALSE
+cs7036 c# there is no argument given that corresponds to the required formal parameter 'n' of,FALSE
+c# repository,TRUE
+c# voice recognition,TRUE
+c# wpf textbox,TRUE
+func in c#,TRUE
+c# list remove duplicate,FALSE
+c# asqueryable,TRUE
+solid principles in c#,FALSE
+cs1697 c# different checksum values given for,FALSE
+c# logging framework,TRUE
+c# wpf openfiledialog,TRUE
+use c# 8,TRUE
+c# convert class to json,FALSE
+c# circular list,TRUE
+cs0619 c# 'component.collider' is obsolete: 'property collider has been deprecated. use getcomponent<collider>() instead. (unityupgradable)',FALSE
+c# listview control,TRUE
+c# bcrypt,TRUE
+c# inherits,TRUE
+: in c#,TRUE
+how to run c# in visual studio code,TRUE
+c# loop through object properties,TRUE
+c# initialize int array,TRUE
+c# date formatting string,TRUE
+c# string remove character,TRUE
+c# search array,TRUE
+c# enum methods,TRUE
+question mark in c#,TRUE
+get length of list c#,TRUE
+c# format percentage,TRUE
+search list c#,TRUE
+c# quick sort,TRUE
+c# kill process by name,TRUE
+html.beginform c#,TRUE
+c# change working directory,TRUE
+select many c#,TRUE
+concurrent collection c#,TRUE
+c# initialize an array,TRUE
+c# array types,TRUE
+c# dll import,TRUE
+c# out variable,TRUE
+c# call base method,TRUE
+getasync c#,TRUE
+how to split a string in c#,TRUE
+c# write xml,TRUE
+c# inline functions,TRUE
+amoritization calculator c#,TRUE
+c# progressbar example,TRUE
+c# restful api example,TRUE
+microsoft.csharp.targets,TRUE
+c# return multiple items,TRUE
+c# int array initialize,TRUE
+c# last character of string,TRUE
+npoi excel c#,TRUE
+ping c#,TRUE
+c# create excel file programmatically,TRUE
+httpstringcontent in c#,TRUE
+c# add string to string array,TRUE
+c# inline switch,TRUE
+how to make an array in c#,TRUE
+decompile c# dll,TRUE
+finally block c#,TRUE
+c# finalize,TRUE
+rest c#,TRUE
+asp.net vs c#,TRUE
+tesseract ocr c#,TRUE
+action delegate c#,TRUE
+c# week of year,TRUE
+c# safehandle,TRUE
+date formats c#,TRUE
+c# destructuring,TRUE
+dynamic linq c#,TRUE
+c# thread synchronization,TRUE
+difference between interface and abstract c#,FALSE
+c# algorithm,TRUE
+c# operator ?.,TRUE
+convert json to class c#,FALSE
+mod operator c#,TRUE
+starting out with visual c# pdf,FALSE
+c# advanced,TRUE
+c# func delegate,TRUE
+c# property =>,TRUE
+c# webrequest post,TRUE
+c# equals override,TRUE
+c# static field,TRUE
+c# json reader,TRUE
+filehelpers c#,TRUE
+c# regex word boundary,FALSE
+cs1503 test c# argument 1: cannot convert from 'system.uri' to,FALSE
+cs0234 c# the type or namespace name 'applicationinsights' does not exist in the namespace 'microsoft' (are you missing an assembly reference?),FALSE
+json to c# class online,FALSE
+or operator in c#,FALSE
+c# exceldatareader,TRUE
+c# resource files,TRUE
+timespan parse c#,TRUE
+c# list firstordefault,TRUE
+c# event tutorial,TRUE
+c# exception when,TRUE
+cs0433 c# and asp.net the type 'reportviewer' exists in both and,FALSE
+heap vs stack c#,TRUE
+c# lambda property,TRUE
+c# decompile,TRUE
+c# groupbox,TRUE
+wpf inotifypropertychanged c#,TRUE
+cs1513 c# expected visual studio,FALSE
+c# if then else shorthand,FALSE
+c# tdd,TRUE
+csharp switch expression,TRUE
+null coalesce c#,TRUE
+c# out _,TRUE
+readonly property c#,TRUE
+cs8026 c# feature is not available in c# 5. please use language version 6 or greater.,FALSE
+c# do until loop,FALSE
+c# workflow,TRUE
+c# attribute list,TRUE
+cs1069 c# the type name 'sqldatareader' could not be found in the namespace. this type has been forwarded to assembly consider adding a reference to that assembly.,FALSE
+c# vs go,TRUE
+c# object reference not set to an instance of an object.,FALSE
+c# events and handlers,TRUE
+c# thread safety,TRUE
+exception thrown: 'microsoft.csharp.runtimebinder.runtimebinderexception' in microsoft.csharp.dll,TRUE
+c# impersonation,TRUE
+c# mocking,TRUE
+c# action<>,TRUE
+c# distinct linq,TRUE
